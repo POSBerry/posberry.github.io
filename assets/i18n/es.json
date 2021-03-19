@@ -1,4 +1,5 @@
 {
+  "NOTIFICATIONS": "Notificaciones",
   "DASHBOARD": "Tablero",
   "APPS": "Apps",
   "INBOX": "Mensaje",
@@ -45,7 +46,7 @@
   "SESSIONS": "Sesiones",
   "SIGNIN": "Registrarse",
   "SIGNUP": "Regístrate",
-  "SIGNOUT": "Deconnectar",
+  "SIGNOUT": "Desconectar",
   "FORGOT": "Forgot",
   "LOCKSCREEN": "Lockscreen",
   "OTHERS": "Otros",
