@@ -79,6 +79,7 @@
     "CLIENTSKIND": "Tipos de Cliente",
     "PURCHASES": "Compras",
     "PROVIDER": "Proveedores",
+    "SUPPLIER":"Proveedores",
     "STOCK": "Stock",
     "STOCKMOVEMENTS": "Movimientos de Stock",
     "TYPESOFSTOCKMOVEMENTS": "Tipos de Movimiento de Stock",

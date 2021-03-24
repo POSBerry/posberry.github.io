@@ -79,6 +79,7 @@
     "CLIENTSKIND": "Clients Kind",
     "PURCHASES": "Purchases",
     "PROVIDER": "Provider",
+    "SUPPLIER":"Supplier",
     "STOCK": "Stock",
     "STOCKMOVEMENTS": "Stock Movements",
     "TYPESOFSTOCKMOVEMENTS": "Types of Stock Movements",
