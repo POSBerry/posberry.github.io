@@ -96,7 +96,25 @@
     "VENDOR": "Vendedores",
     "DEPOSIT": "Deposito",
     "WEBAPPS": "Web Apps",
-    "DELIVERY": "Delivery"
+    "DELIVERY": "Delivery",
+    
+    "GRAPHICS":"Grafícos",
+    "LIST":"Listado",
+    "IMPORT":"Importar",
+    "PROMOTIONS":"Promociones",
+    "TYPES":"Tipos",
+    "BYDOCUMENT":"por Documento",
+    "BYPRODUCT":"por Producto",
+    "TAXES":"Impuestos",
+    "VATPURCHASES":"Iva Compras",
+    "PURCHASESPLAN":"Plan de Compras",
+    "BYDEPOSIT":"Por Deposito",
+    "BYDEPOSITONDATE":"Por Deposito en Fecha",
+    "VALUATIONBYPRODUCT ":"Valoracion por Producto",
+    "VALUATIONBYDEPOSIT ":"Vaoracion por Deposito",
+    "CASHREPORTBYMOVEMENTS":"Reporte de caja por movimientos",
+    "GIFTCARDS":"Giftcards",
+    "TYPESOFGIFTCARDS":"Tipos de Giftcards"
   },
   "APPLOADER": {
     "PLEASEWAIT": "Por favor espere"
