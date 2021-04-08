@@ -109,11 +109,22 @@
     "PURCHASESPLAN":"Purchases Plan",
     "BYDEPOSIT":"By Deposit",
     "BYDEPOSITONDATE":"By Deposit On Date",
-    "VALUATIONBYPRODUCT ":"Valuation By Product",
-    "VALUATIONBYDEPOSIT ":"Valuation By Deposit",
+    "VALUATIONBYPRODUCT":"Valuation By Product",
+    "VALUATIONBYDEPOSIT":"Valuation By Deposit",
     "CASHREPORTBYMOVEMENTS":"Cash Report By Movements",
     "GIFTCARDS":"Giftcards",
-    "TYPESOFGIFTCARDS":"Types of Giftcards"
+    "TYPESOFGIFTCARDS":"Types of Giftcards",
+    "BYTYPEOFMOVEMENTS":"By Types of Movements",
+    "BYMOVEMENTS":"By Movements",
+    "INVENTORY":"Inventory",
+    "VATSALES":"VAT Sales",
+    "CITISALES":"CITI Sales",
+    "ROLES":"Roles",
+    "BONDING":"Bonding",
+    "TICKET":"Ticket",
+    "WIPEDATA":"Wipe Data",
+    "CUSTOMERDISPLAY":"Customer Display",
+    "COMPANY":"Company"
   },
   "APPLOADER": {
     "PLEASEWAIT": "Please wait"
@@ -427,5 +438,11 @@
     "ACTIVE": "Active",
     "SAVE": "Save",
     "CANCEL": "Cancel"
+  },
+  "BONDINGSETTINGS":{
+    "FILTER":"Filter",
+    "BRANCHOFFICE":"Branch Office",
+    "HARDWAREID":"Hardware ID",
+    "ACTIONS":"Actions"
   }
 }

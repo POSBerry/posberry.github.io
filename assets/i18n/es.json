@@ -114,7 +114,18 @@
     "VALUATIONBYDEPOSIT ":"Vaoracion por Deposito",
     "CASHREPORTBYMOVEMENTS":"Reporte de caja por movimientos",
     "GIFTCARDS":"Giftcards",
-    "TYPESOFGIFTCARDS":"Tipos de Giftcards"
+    "TYPESOFGIFTCARDS":"Tipos de Giftcards",
+    "BYTYPEOFMOVEMENTS":"Por Tipo de Movimientos",
+    "BYMOVEMENTS":"Por Movimientos",
+    "INVENTORY":"Inventarío",
+    "VATSALES":"IVA Ventas",
+    "CITISALES":"CITI Ventas",
+    "ROLES":"Roles",
+    "BONDING":"Vinculacíon",
+    "TICKET":"Ticket",
+    "WIPEDATA":"Limpiar Datos",
+    "CUSTOMERDISPLAY":"Customer Display",
+    "COMPANY":"Empresa"
   },
   "APPLOADER": {
     "PLEASEWAIT": "Por favor espere"
@@ -426,5 +437,11 @@
     "ACTIVE": "Activo",
     "SAVE": "Guardar",
     "CANCEL": "Cancelar"
+  },
+  "BONDINGSETTINGS":{
+    "FILTER":"Filtrar",
+    "BRANCHOFFICE":"Sucursal",
+    "HARDWAREID":"Hardware ID",
+    "ACTIONS":"Acciones"
   }
 }
