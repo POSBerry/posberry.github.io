@@ -387,7 +387,20 @@
     "PHONE": "Phone",
     "ACTIVE": "Active",
     "SAVE": "Save",
-    "CANCEL": "Cancel"
+    "CANCEL": "Cancel",
+    "WHATSAPP":"WhatsApp",
+    "WEBSCHEDULEPOLICY":"Web Schedule Policy",
+    "DELIVERYPRICE":"Delivery Price",
+    "BONUSFROMAMOUNT":"Bonus from Amount",
+    "FREEDELIVERYFROMTHEFOLLOWINGSTREETSAWAY":"free delivery from the following streets away",
+    "ESTIMATEDDELIVERYMINUTES":"Estimated delivery minutes",
+    "USEWEBDELIVERY":"Use web delivery",
+    "USEWEBPICKUP":"Use Web Pickup",
+    "ONLINESTORE":"Online store",
+    "PRICELIST":"price list",
+    "SEEPRODUCTSWITHZEROPRICE":"See products with zero price",
+    "BRANCHNUMBER":"Branch number",
+    "DETAILS":"details"
   },
   "TYPESOFSTOCKMOVEMENTS": {
     "FILTER": "Filter",
@@ -444,5 +457,25 @@
     "BRANCHOFFICE":"Branch Office",
     "HARDWAREID":"Hardware ID",
     "ACTIONS":"Actions"
-  }
+  },
+"BYPRODUCT":{
+  "STARTDATE":"Start Date",
+  "ENDDATE":"End Date",
+  "BRANCH":"Branch",
+  "SHOW":"Show",
+  "PRODUCT":"Product",
+  "RECEIPT":"Receipt",
+  "QUANTITY":"Quantity (total)",
+  "AMOUNT":"Amount (total)",
+  "CODE":"Code",
+  "COST":"Cost",
+  "PRICE":"Price",
+  "BUSINESSNAME":"Business Name",
+  "FAMILY":"Family",
+  "PROVIDER":"Provider",
+  "EAN":"EAN",
+  "FOOTERTOTALS":"Totals",
+  "EXCELTOTALS":"Excel (Totals)",
+  "EXCELDETAILS":"Excel (Details)"
+}
 }

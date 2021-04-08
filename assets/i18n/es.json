@@ -386,7 +386,20 @@
     "PHONE": "Telefono",
     "ACTIVE": "Activo",
     "SAVE": "Guardar",
-    "CANCEL": "Cancelar"
+    "CANCEL": "Cancelar",
+    "WHATSAPP":"WhatsApp",
+    "WEBSCHEDULEPOLICY":"Politica de Horarios web",
+    "DELIVERYPRICE":"Precio del Delivery",
+    "BONUSFROMAMOUNT":"Bonificar desde Monto",
+    "FREEDELIVERYFROMTHEFOLLOWINGSTREETSAWAY":"Cuadras Gratis De Delivery",
+    "ESTIMATEDDELIVERYMINUTES":"Minutos estimados de Delivery",
+    "USEWEBDELIVERY":"Usar web Delivery",
+    "USEWEBPICKUP":"Usar Web Pickup",
+    "ONLINESTORE":"Tienda Online",
+    "PRICELIST":"Listado de Precios",
+    "SEEPRODUCTSWITHZEROPRICE":"Ver productos con precio cero",
+    "BRANCHNUMBER":"Numero de Sucursal",
+    "DETAILS":"detalles"
   },
   "TYPESOFSTOCKMOVEMENTS": {
     "FILTER": "Filtrar",
@@ -443,5 +456,25 @@
     "BRANCHOFFICE":"Sucursal",
     "HARDWAREID":"Hardware ID",
     "ACTIONS":"Acciones"
+  },
+  "BYPRODUCT":{
+    "STARTDATE":"Fecha Inicial",
+    "ENDDATE":"Fecha Final",
+    "BRANCH":"Sucursal",
+    "SHOW":"Mostrar",
+    "PRODUCT":"Productos",
+    "RECEIPT":"Comprobante",
+    "QUANTITY":"Cantidad (total)",
+    "AMOUNT":"Importe (total)",
+    "CODE":"Código",
+    "COST":"Costo",
+    "PRICE":"Precio",
+    "BUSINESSNAME":"Razon Social",
+    "FAMILY":"Familia",
+    "PROVIDER":"Proveedor",
+    "EAN":"EAN",
+    "FOOTERTOTALS":"Totales",
+    "EXCELTOTALS":"Excel (Totales)",
+    "EXCELDETAILS":"Excel (Detalles)"
   }
 }
