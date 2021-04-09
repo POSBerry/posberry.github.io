@@ -536,5 +536,30 @@
     "CLOSINGOPERATOR":"Operador de Cierre",
     "CANCEL":"Cancelar",
     "DETAILS":"detalles"
+  },
+  "CASHREPORT":{
+    "STARTDATE":"Fecha Inicial",
+    "ENDDATE":"Fecha Final",
+    "CLOSEDATE":"Fecha de Cierre",
+    "BRANCH":"Sucursal",
+    "SHOW":"Mostrar",
+    "PV":"PV",
+    "INITIALBALANCE":"Saldo Inicial",
+    "TOTALCASH":"Total Efectivo",
+    "TOTALCARDS":"Total Tarjetas",
+    "TOTALCREDIT":"Total Credito",
+    "TOTALCASHMOVEMENT":"Total MovCaja",
+    "TOTALMERCADOPAGO":"Total MercadoPago",
+    "TOTALCHECKS":"Total Cheques",
+    "TOTALTRANSFERS":"Total Transferencias",
+    "ADJUSTMENT":"Ajuste",
+    "DIFFERENCE":"Diferencia",
+    "FINALBALANCE":"Saldo Final",
+    "OP.OPENING":"Op.Apertura",
+    "OP.CLOSE":"Op.Cierre",
+    "ACTIONS":"ACTIONS",
+    "TOTALITEMS":"Articulos Totales",
+    "EXCEL":"Excel"
+  
   }
 }

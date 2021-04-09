@@ -537,5 +537,30 @@
   "CLOSINGOPERATOR":"Closing Operator",
   "CANCEL":"Cancel",
   "DETAILS":"details"
+},
+"CASHREPORT":{
+  "STARTDATE":"Start Date",
+  "ENDDATE":"End Date",
+  "CLOSEDATE":"Close Date",
+  "BRANCH":"Branch",
+  "SHOW":"Show",
+  "PV":"PV",
+  "INITIALBALANCE":"Initial balance",
+  "TOTALCASH":"Total Cash",
+  "TOTALCARDS":"Total Cards",
+  "TOTALCREDIT":"Total Credit",
+  "TOTALCASHMOVEMENT":"Total Cash Movement",
+  "TOTALMERCADOPAGO":"Total MercadoPago",
+  "TOTALCHECKS":"Total Checks",
+  "TOTALTRANSFERS":"Total Transfers",
+  "ADJUSTMENT":"Adjustment",
+  "DIFFERENCE":"Difference",
+  "FINALBALANCE":"Final balance",
+  "OP.OPENING":"Op.Opening",
+  "OP.CLOSE":"Op.Close",
+  "ACTIONS":"Actions",
+  "TOTALITEMS":"Total Items",
+  "EXCEL":"Excel"
+
 }
 }
