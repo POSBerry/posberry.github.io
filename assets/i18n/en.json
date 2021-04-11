@@ -124,7 +124,9 @@
     "TICKET":"Ticket",
     "WIPEDATA":"Wipe Data",
     "CUSTOMERDISPLAY":"Customer Display",
-    "COMPANY":"Company"
+    "COMPANY":"Company",
+    "PAYMENTS":"Payments",
+    "PRICES":"Prices"
   },
   "APPLOADER": {
     "PLEASEWAIT": "Please wait"
@@ -216,7 +218,7 @@
   "CLIENTSCOMPONENT": {
     "CODE": "Code",
     "BUSINESSNAME": "Business Name",
-    "ADDRESS": "Adress",
+    "ADDRESS": "Address",
     "CUIT": "CUIT",
     "FISCALCONDITION": "Fiscal Condition",
     "CLIENTTYPE": "Client Type",
@@ -643,8 +645,59 @@
   "PRICELISTOFTHEORDERWEBSITE":"Price list of the Order website",
   "WEBSTOCKPREFERENCES":"Web stock preferences",
   "ORDERWEBTHEME":"Order web theme",
-  "ORDERWEBACCENTCOLOR":"Order web accent color"
-
+  "ORDERWEBACCENTCOLOR":"Order web accent color",
+  "CREDENTIALS1":"Get your Mercado Pago Credentials",
+  "CREDENTIALS2":"to fill in the following fields. Before visiting the link, please log in to Mercado Pago to view the page. In the link that is highlighted",
+  "CREDENTIALS3":"In the 'Basic checkout' section you will find the values ​​you need",
+  "SETTING":"Setting"
+},
+"CLIENTSUPLOAD":{
+  "NOFILEUPLOADEDYET.":"No file uploaded yet.",
+  "THEREAREDUPLICATECODES":"There are duplicate codes",
+  "PARRAF1":"please re-edit the excel file and make sure clients have a different code each one that is not repeated. You can also have clients with duplicate codes already uploaded, in that case be sure to edit the clients with the editor.",
+  "UPLOAD":"upload",
+  "CODE":"Code",
+  "BUSINESSNAME":"Business Name",
+  "ADDRESS":"Address",
+  "CUIT":"CUIT",
+  "FISCALCONDITION":"Fiscal Condition",
+  "CREDIT":"Credit",
+  "CREDITLIMIT":"Credit Limit",
+  "ACTIVE":"Active",
+  "UPLOADFILE":"Upload File"
+},
+"CUSTOMERDISPLAY":{
+  "PARRAF1":"You can select up to 10 banner images and a background image for Promotions.",
+  "PICTURE":"Picture",
+  "SEND":"Send"
+},
+"DELIVERYSETTINGSPOPUP":{
+  "CODE":"Code",
+  "NAME":"Name",
+  "SURNAME":"Surname",
+  "LOCATION":"Location",
+  "EMAIL":"Email",
+  "PHONE":"Phone",
+  "BRANCH":"Branch",
+  "ACTIVE":"Active",
+  "SAVE":"Save",
+  "CANCEL":"Cancel"
+},
+"DELIVERYSETTINGS":{
+  "ADDDELIVERY":"ADD DELIVERY",
+  "FILTER":"Filter",
+  "DELIVERY":"Delivery",
+  "ACTIONS":"Actions"
+},
+"DEPOSITSETTINGSPOPUP":{
+  "NAME":"Name",
+  "ADDRESS":"Address",
+  "SAVE":"Save",
+  "CANCEL":"Cancel"
+},"DEPOSITSETTINGS":{
+  "FILTER":"Filter",
+  "NAME":"Name",
+  "ACTIONS":"Actions"
 }
 
 }

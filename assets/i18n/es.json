@@ -110,8 +110,8 @@
     "PURCHASESPLAN":"Plan de Compras",
     "BYDEPOSIT":"Por Deposito",
     "BYDEPOSITONDATE":"Por Deposito en Fecha",
-    "VALUATIONBYPRODUCT ":"Valoracion por Producto",
-    "VALUATIONBYDEPOSIT ":"Vaoracion por Deposito",
+    "VALUATIONBYPRODUCT":"Valoracion por Producto",
+    "VALUATIONBYDEPOSIT":"Valoracion por Deposito",
     "CASHREPORTBYMOVEMENTS":"Reporte de caja por movimientos",
     "GIFTCARDS":"Giftcards",
     "TYPESOFGIFTCARDS":"Tipos de Giftcards",
@@ -125,7 +125,9 @@
     "TICKET":"Ticket",
     "WIPEDATA":"Limpiar Datos",
     "CUSTOMERDISPLAY":"Customer Display",
-    "COMPANY":"Empresa"
+    "COMPANY":"Empresa",
+    "PAYMENTS":"Pagos",
+    "PRICES":"Precios"
   },
   "APPLOADER": {
     "PLEASEWAIT": "Por favor espere"
@@ -222,7 +224,7 @@
     "FISCALCONDITION": "Condición Fiscal",
     "CLIENTTYPE": "Tipo de Cliente",
     "CREDIT": "Credito",
-    "CREDITLIMIT": "Limite de Credito",
+    "CREDITLIMIT": "Límite de Crédito",
     "ACTIVE": "Activo",
     "ADDCLIENT": "Agregar Cliente",
     "FILTER": "Escriba para filtrar en todas las columnas",
@@ -241,7 +243,7 @@
     "PRICELIST": "Lista de Precios",
     "DISCOUNTCAP": "Tope de Descuento",
     "CREDITSALE": "Venta a Credito",
-    "CREDITLIMIT": "Limite de Credito",
+    "CREDITLIMIT": "Límite de Crédito",
     "FAVORITE": "Favorito",
     "ACTIVE": "Activo",
     "SAVE": "Guardar",
@@ -557,7 +559,7 @@
     "FINALBALANCE":"Saldo Final",
     "OP.OPENING":"Op.Apertura",
     "OP.CLOSE":"Op.Cierre",
-    "ACTIONS":"ACTIONS",
+    "ACTIONS":"Acciones",
     "TOTALITEMS":"Articulos Totales",
     "EXCEL":"Excel"
   
@@ -571,7 +573,7 @@
   "LOADPAYMENT":"Cargar Pago",
   "DATE":"Fecha",
   "TYPE":"Tipo",
-  "ACTIONS":"Actions",
+  "ACTIONS":"Acciones",
   "EXCEL":"Excel",
   "PAY":"Pagar"
 
@@ -641,7 +643,57 @@
   "PRICELISTOFTHEORDERWEBSITE":"Lista de precios de la web Order",
   "WEBSTOCKPREFERENCES":"Preferencias de stock Web",
   "ORDERWEBTHEME":"Tema para la web Order",
-  "ORDERWEBACCENTCOLOR":"Color de acento de la web de Order"
+  "ORDERWEBACCENTCOLOR":"Color de acento de la web de Order",
+  "CREDENTIALS1":"Obtenga sus Credenciales de Mercado Pago",
+  "CREDENTIALS2":"para llenar los siguientes campos. Antes de visitar el link, por favor inicie sesión en Mercado Pago para poder visualizar la página. En el link que esta resaltado",
+  "CREDENTIALS3":"En la sección 'Checkout básico' encontrará los valores que se necesitan",
+  "SETTING":"Configuración"
 
+},
+"CLIENTSUPLOAD":{
+  "NOFILEUPLOADEDYET.":"Ningún archivo cargado todavía.",
+  "THEREAREDUPLICATECODES":"There are duplicate codes",
+  "PARRAF1":"por favor vuelva a editar el archivo de Excel y asegúrese que los clientes tengan un código distinto cada uno que no se repita. También puede tener clientes con códigos duplicados ya cargados, en ese caso asegúrese de editar los clientes con el editor.",
+  "UPLOAD":"Subir",
+  "CODE":"Código",
+  "BUSINESSNAME":"Razon Social",
+  "ADDRESS":"Dirección",
+  "CUIT":"CUIT",
+  "FISCALCONDITION":"Condición Fiscal",
+  "CREDIT":"Credito",
+  "CREDITLIMIT":"Límite de Crédito",
+  "ACTIVE":"Activo",
+  "UPLOADFILE":"Cargar archivo"
+},"CUSTOMERDISPLAY":{
+  "PARRAF1":"Puede seleccionar hasta 10 imagenes como banner y una imagen de fondo para las Promociones.",
+  "PICTURE":"Imágen",
+  "SEND":"Enviar"
+},
+"DELIVERYSETTINGSPOPUP":{
+  "CODE":"Código",
+  "NAME":"Nombre",
+  "SURNAME":"Apellido",
+  "LOCATION":"Localidad",
+  "EMAIL":"Email",
+  "PHONE":"Telefono",
+  "BRANCH":"Sucursal",
+  "ACTIVE":"Activo",
+  "SAVE":"Guardar",
+  "CANCEL":"Cancelar"
+},
+"DELIVERYSETTINGS":{
+  "ADDDELIVERY":"Agregar Delivery",
+  "FILTER":"Filtrar",
+  "DELIVERY":"Delivery",
+  "ACTIONS":"Acciones"
+},"DEPOSITSETTINGSPOPUP":{
+  "NAME":"Nombre",
+  "ADDRESS":"Domicilio",
+  "SAVE":"Guardar",
+  "CANCEL":"Cancelar"
+},"DEPOSITSETTINGS":{
+  "FILTER":"Filtrar",
+  "NAME":"Nombre",
+  "ACTIONS":"Acciones"
 }
 }
