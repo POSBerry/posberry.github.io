@@ -437,7 +437,29 @@
     "POSCAEANUMBER": "Número PV CAEA",
     "ACTIVE": "Activo",
     "SAVE": "Guardar",
-    "CANCEL": "Cancelar"
+    "CANCEL": "Cancelar",
+    "DETAILS":"Detalles",
+    "NUMBEROFPV":"Numero de PV",
+    "BRANCHOFFICE":"Sucursal",
+    "DISCOUNTCAP":"Tope de Descuento",
+    "USECUSTOMERSCREEN":"Usar Pantalla al Cliente",
+    "USEREMOTESALEANDPRESALE":"Usar Venta y Preventa Remota",
+    "USEPRICECHECKER":"Usar Verificador de Precios",
+    "PARRAF1":"'Usar Pantalla al Cliente', 'Usar Venta y Preventa Remota' y 'Usar Verificador de Precios' tienen un costo adicional",
+    "PARAMETERS":"Parametros",
+    "DEFAULTCLIENT":"Cliente Predeterminado",
+    "GROUPIDENTICALPRODUCTS":"Agrupar productos identicos",
+    "FORCELOGINWHENCLOSINGBOX":"Forzar login al cerrar caja",
+    "CANEDITUNITPRICE":"Puede editar Precio Unitario",
+    "CANEDITQUANTITIES":"Puede editar Cantidades",
+    "ALLOWNEGATIVEAMOUNTS":"Permitir cantidades negativas",
+    "ELECTRONICINVOICE-FILE.KEY":"Factura Electrónica - Archivo.key",
+    "ELECTRONICINVOICE-FILE.CRT":"Factura Electrónica - Archivo.crt",
+    "BILLINGTYPE":"Tipo de Facturación",
+    "ELECTRONICBILL":"Factura Electrónica"
+
+
+    
   },
   "NOTIFICATIONSETTINGS": {
     "ADDNOTIFICATION": "Agregar Notificación",
@@ -818,6 +840,50 @@
   "ATTENTION":"Atención",
   "ITISCONFIGUREDSOTHATTHISPURCHASEDOESNOTAFFECTTHESTOCK":"esta configurado para que esta compra NO afecte el stock",
   "CANCEL":"Cancelar"
+},
+"OPERATORSETTINGPOPUPCOMPONENT":{
+  "ROLES":"Roles",
+  "NAME":"Nombre",
+  "SURNAME":"Apellido",
+  "EMAIL":"Correo Electrónico",
+  "PHONE":"Telefono",
+  "DISCOUNTCAP":"Tope de Descuento",
+  "SUPERVISORCODE":"Código Supervisor",
+  "ACTIVE":"Activo",
+  "SAVE":"Guardar",
+  "CANCEL":"Cancelar"
+},
+"OPERATORSETTINGSCOMPONENT":{
+  "ADDOPERATOR":"Add Operator",
+  "SEARCH":"search",
+  "FILTER":"Filter",
+  "OPERATORS":"Operators",
+  "ACTIONS":"Actions"
+},
+"PAYMENTDETAILSPOPUP":{
+  "DETAIL":"Detalle",
+  "QUANTITY":"Cantidad",
+  "CONCEPT":"Concepto",
+  "UNITPRICE":"Precio Unitario",
+  "DISCOUNTS":"Descuentos",
+  "TAXES":"Impuestos",
+  "DGR":"DGR",
+  "VAT":"IVA",
+  "TOTAL":"Total",
+  "CANCEL":"Cancelar"
+},
+"PAYMENTDETAILSSETTINGS":{
+  "FILTER":"Filtrar",
+  "EXPIRATION":"Vencimiento",
+  "INFORMED":"Informado",
+  "PAYMENTCONFIRMED":"Pago Confirmado",
+  "PAYMENTMETHOD":"Medio de Pago",
+  "OBSERVATION":"Observación",
+  "TOTAL":"Total",
+  "ACTIONS":"Acciones"
+},
+"PAYMENTSETTINGS":{
+  "PAYMENTHISTORY":"Historial de Pagos"
 }
 
 }

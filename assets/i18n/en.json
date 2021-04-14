@@ -438,7 +438,30 @@
     "POSCAEANUMBER": "POS CAEA Number",
     "ACTIVE": "Active",
     "SAVE": "Save",
-    "CANCEL": "Cancel"
+    "CANCEL": "Cancel",
+    "DETAILS":"Details",
+    "NUMBEROFPV":"Number of PV",
+    "BRANCHOFFICE":"Branch office",
+    "DISCOUNTCAP":"Discount Cap",
+    "USECUSTOMERSCREEN":"Use Customer Screen",
+    "USEREMOTESALEANDPRESALE":"Use Remote Sale and Presale",
+    "USEPRICECHECKER":"Use Price Checker",
+    "PARRAF1":"'Use Customer Screen', 'Use Remote Sales and Presale' and 'Use Price Checker' have an additional cost'",
+    "PARAMETERS":"Parameters",
+    "DEFAULTCLIENT":"Default Client",
+    "GROUPIDENTICALPRODUCTS":"Group identical products",
+    "FORCELOGINWHENCLOSINGBOX":"Force login when closing box",
+    "CANEDITUNITPRICE":"Can edit Unit Price",
+    "CANEDITQUANTITIES":"Can edit Quantities",
+    "ALLOWNEGATIVEAMOUNTS":"Allow negative amounts",
+    "ELECTRONICINVOICE-FILE.KEY":"Electronic Invoice - File.key",
+    "ELECTRONICINVOICE-FILE.CRT":"Electronic Invoice - File.crt",
+    "BILLINGTYPE":"Billing Type",
+    "ELECTRONICBILL":"Electronic bill"
+
+
+
+
   },
   "NOTIFICATIONSETTINGS": {
     "ADDNOTIFICATION": "Add Notification",
@@ -820,6 +843,77 @@
   "ATTENTION":"Attention",
   "ITISCONFIGUREDSOTHATTHISPURCHASEDOESNOTAFFECTTHESTOCK":"It is configured so that this purchase does NOT affect the stock",
   "CANCEL":"Cancel"
+},
+"OPERATORSETTINGPOPUPCOMPONENT":{
+  "ROLES":"Roles",
+  "NAME":"Name",
+  "SURNAME":"Surname",
+  "EMAIL":"Email",
+  "PHONE":"Phone",
+  "DISCOUNTCAP":"Discount Cap",
+  "SUPERVISORCODE":"Supervisor Code",
+  "ACTIVE":"Active",
+  "SAVE":"Save",
+  "CANCEL":"Cancel"
+},
+"OPERATORSETTINGSCOMPONENT":{
+  "ADDOPERATOR":"Add Operator",
+  "SEARCH":"search",
+  "FILTER":"Filter",
+  "OPERATORS":"Operators",
+  "ACTIONS":"Actions"
+},
+"PAYMENTDETAILSPOPUP":{
+  "DETAIL":"Detail",
+  "QUANTITY":"Quantity",
+  "CONCEPT":"Concept",
+  "UNITPRICE":"Unit price",
+  "DISCOUNTS":"Discounts",
+  "TAXES":"Taxes",
+  "DGR":"DGR",
+  "VAT":"VAT",
+  "TOTAL":"Total",
+  "CANCEL":"Cancel"
+},
+"PAYMENTDETAILSSETTINGS":{
+  "FILTER":"Filter",
+  "EXPIRATION":"Expiration",
+  "INFORMED":"Informed",
+  "PAYMENTCONFIRMED":"Payment Confirmed",
+  "PAYMENTMETHOD":"Payment method",
+  "OBSERVATION":"Observation",
+  "TOTAL":"Total",
+  "ACTIONS":"Actions"
+},
+"PAYMENTSETTINGS":{
+  "PAYMENTHISTORY":"Payment history"
+},
+"PRODUCTSPRICES":{
+  "FAMILIES":"Families",
+  "ONLYTHISFAMILY":"Only this family",
+  "ONLYWITHPURCHASESINTHELAST":"Only with purchases in the last",
+  "WITHCHANGESINCOSTINTHELAST":"With changes in cost in the last",
+  "PRICELIST":"Price list",
+  "MODIFYPRICESMASSIVELY":"Modify prices massively",
+  "CHANGEPROFITMARGIN":"Change profit margin",
+  "ROUNDINGPOLICY":"Rounding policy",
+  "ROUNDTO":"Round to",
+  "USEASBASEPRICE":"Use as base price",
+  "MODIFYCOSTPRICE":"Modify Cost Price",
+  "PREVIEW":"Preview",
+  "CHANGE":"Change",
+  "FILTERBYCODE,NAMEORPROVIDER":"Filter by Code, Name or Provider",
+  "CODE":"Code",
+  "NAME":"Name",
+  "SUPPLIER":"Supplier",
+  "ACTUALCOST":"Actual Cost",
+  "COSTWITHOUTVAT":"Cost Without VAT",
+  "LASTPURCHASE":"Last purchase",
+  "ACTUALPRICE":"Actual Price",
+  "MARGIN":"Margin",
+  "NEWPRICE":"New Price",
+  "NEWCOST":"New Cost"
 }
+
 
 }
