@@ -884,6 +884,32 @@
 },
 "PAYMENTSETTINGS":{
   "PAYMENTHISTORY":"Historial de Pagos"
+},
+"PRODUCTSPRICES":{
+  "FAMILIES":"Familias",
+  "ONLYTHISFAMILY":"Solo esta Familia",
+  "ONLYWITHPURCHASESINTHELAST":"Solo con compras en los últimos",
+  "WITHCHANGESINCOSTINTHELAST":"Con cambios en el costo en los últimos",
+  "PRICELIST":"Lista de Precios",
+  "MODIFYPRICESMASSIVELY":"Modificar precios masivamente",
+  "CHANGEPROFITMARGIN":"Cambiar margen de ganancia",
+  "ROUNDINGPOLICY":"Política de redondeo",
+  "ROUNDTO":"Redondear a",
+  "USEASBASEPRICE":"Usar como precio base",
+  "MODIFYCOSTPRICE":"Modificar Precio de Costo",
+  "PREVIEW":"Previsualizar",
+  "CHANGE":"Cambiar",
+  "FILTERBYCODE,NAMEORPROVIDER":"Filtrar por Código, Nombre o Proveedor",
+  "CODE":"Código",
+  "NAME":"Nombre",
+  "SUPPLIER":"Proveedor",
+  "ACTUALCOST":"Costo Actual",
+  "COSTWITHOUTVAT":"Costo Sin IVA",
+  "LASTPURCHASE":"Última Compra",
+  "ACTUALPRICE":"Precio Actual",
+  "MARGIN":"Margen",
+  "NEWPRICE":"Precio Nuevo",
+  "NEWCOST":"Costo Nuevo"
 }
 
 }
