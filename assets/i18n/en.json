@@ -913,6 +913,35 @@
   "MARGIN":"Margin",
   "NEWPRICE":"New Price",
   "NEWCOST":"New Cost"
+},
+"PRODUCTSUPLOADCOMPONENT":{
+  "FILEUPLOAD":"File upload",
+  "THEREAREDUPLICATECODES":"There are duplicate codes",
+  "PARRAF1":"Please re-edit the Excel file and make sure that the products have a different code each one that is not repeated. You can also have products with duplicate codes already uploaded, in that case make sure to edit the products with the editor",
+  "THEREAREERRORSINTHEVATFIELDS":"There are errors in the VAT fields",
+  "PRODUCT(S)HAVEINCORRECTLYLOADEDTHEVATFIELD":"product (s) have incorrectly loaded the VAT field",
+  "UPLOAD":"Upload",
+  "CODE":"Code",
+  "NAME":"Name",
+  "COST":"Cost",
+  "SALESPRICE":"Sales Price",
+  "FAMILY":"Family",
+  "MINIMUMSTOCK":"Minimum Stock",
+  "SHOWPRODUCTS":"Show Products"
+
+
+},
+"PROMOTIONS":{
+  "ADDPROMOTION":"Add Promotion",
+  "PROMOTIONTYPE":"Promotion Type",
+  "ONLYTHISTYPEOFPROMOTION":"Only this type of promotion",
+  "ONLYACTIVE":"Only Active",
+  "ONLYINFORCE":"Only in force",
+  "FILTER":"Filter",
+  "DESCRIPTION":"Description",
+  "TYPE":"type"
+
+
 }
 
 

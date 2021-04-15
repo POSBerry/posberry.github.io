@@ -177,8 +177,8 @@
     "MAXIMUMNUMBEROFOPTIONS": "Cantidad Maxima de Opcionales",
     "SAVE": "Guardar",
     "CANCEL": "Cancelar",
-    "PUBLISHONTHEWEB": "Publish on the Web",
-    "COST": "Cost"
+    "PUBLISHONTHEWEB": "Publicar en la web",
+    "COST": "Costo"
   },
   "REGISTRYCOMPONENT": {
     "INSTANCE": "Instancia",
@@ -910,6 +910,23 @@
   "MARGIN":"Margen",
   "NEWPRICE":"Precio Nuevo",
   "NEWCOST":"Costo Nuevo"
+},
+"PRODUCTSUPLOADCOMPONENT":{
+  "FILEUPLOAD":"Cargar archivo",
+  "THEREAREDUPLICATECODES":"Hay códigos duplicados",
+  "PARRAF1":"por favor vuelva a editar el archivo de Excel y asegúrese que los productos tengan un código distinto cada uno que no se repita. También puede tener productos con códigos duplicados ya cargados, en ese caso asegúrese de editar los productos con el editor",
+  "THEREAREERRORSINTHEVATFIELDS":"Hay errores en los campos de IVA",
+  "PRODUCT(S)HAVEINCORRECTLYLOADEDTHEVATFIELD":"producto(s) tienen mal cargado el campo de IVA",
+  "UPLOAD":"Subir",
+  "CODE":"Código",
+  "NAME":"Nombre",
+  "COST":"Costo",
+  "SALESPRICE":"Precio de Venta",
+  "FAMILY":"Familia",
+  "MINIMUMSTOCK":"Stock Mínimo",
+  "SHOWPRODUCTS":"Mostrar productos"
+
 }
+
 
 }
