@@ -94,7 +94,7 @@
     "NOTIFICATION": "Notificaciones",
     "OPERATOR": "Operadores",
     "VENDOR": "Vendedores",
-    "DEPOSIT": "Deposito",
+    "DEPOSIT": "Depósito",
     "WEBAPPS": "Web Apps",
     "DELIVERY": "Delivery",
     
@@ -108,10 +108,10 @@
     "TAXES":"Impuestos",
     "VATPURCHASES":"Iva Compras",
     "PURCHASESPLAN":"Plan de Compras",
-    "BYDEPOSIT":"Por Deposito",
-    "BYDEPOSITONDATE":"Por Deposito en Fecha",
+    "BYDEPOSIT":"Por Depósito",
+    "BYDepósitoNDATE":"Por Depósito en Fecha",
     "VALUATIONBYPRODUCT":"Valoracion por Producto",
-    "VALUATIONBYDEPOSIT":"Valoracion por Deposito",
+    "VALUATIONBYDEPOSIT":"Valoracion por Depósito",
     "CASHREPORTBYMOVEMENTS":"Reporte de caja por movimientos",
     "GIFTCARDS":"Giftcards",
     "TYPESOFGIFTCARDS":"Tipos de Giftcards",
@@ -146,7 +146,7 @@
     "MARGINOFGAIN": "Margen de Ganancia",
     "FAMILY": "Familia",
     "PROVIDER": "Proveedor",
-    "MINIMUMSTOCK": "Stock Minimo",
+    "MINIMUMSTOCK": "Stock Mínimo",
     "ACTIONS": "Acciones"
   },
   "PRODUCTSPOPUPCOMPONENT": {
@@ -165,7 +165,7 @@
     "MARGINOFGAIN": "Margen de Ganancia",
     "PRICE": "Precio",
     "DAYSOFSTOCK": "Días de Stock",
-    "MINIMUMSTOCK": "Stock Minimo",
+    "MINIMUMSTOCK": "Stock Mínimo",
     "IVA": "IVA",
     "DGR": "DGR",
     "INTERNALTAX": "Impuesto Interno",
@@ -324,7 +324,7 @@
     "HOUR": "Hora",
     "MINUTES": "Minutos",
     "EXCEL": "Excel",
-    "DEPOSIT": "Deposito",
+    "DEPOSIT": "Depósito",
     "NAME": "Nombre",
     "CODE": "Código",
     "FAMILY": "Familia",
@@ -854,11 +854,11 @@
   "CANCEL":"Cancelar"
 },
 "OPERATORSETTINGSCOMPONENT":{
-  "ADDOPERATOR":"Add Operator",
-  "SEARCH":"search",
-  "FILTER":"Filter",
-  "OPERATORS":"Operators",
-  "ACTIONS":"Actions"
+  "ADDOPERATOR":"Agregar Operador",
+  "SEARCH":"Buscar",
+  "FILTER":"Filtrar",
+  "OPERATORS":"Operadores",
+  "ACTIONS":"Acciones"
 },
 "PAYMENTDETAILSPOPUP":{
   "DETAIL":"Detalle",
@@ -926,7 +926,199 @@
   "MINIMUMSTOCK":"Stock Mínimo",
   "SHOWPRODUCTS":"Mostrar productos"
 
+},
+"PROMOTIONS":{
+  "ADDPROMOTION":"Agregar Promoción",
+  "PROMOTIONTYPE":"Tipo de Promoción",
+  "ONLYTHISTYPEOFPROMOTION":"Sólo este Tipo de Promoción",
+  "ONLYACTIVE":"Sólo Activas",
+  "ONLYINFORCE":"Sólo Vigentes",
+  "FILTER":"Filtrar",
+  "DESCRIPTION":"Descripción",
+  "TYPE":"Tipo",
+  "SINCE":"DESDE",
+  "UNTIL":"HASTA",
+  "ACTIVE":"Activo",
+  "ACTIONS":"Acciones"
+
+},
+"PUCHASESBYDOCUMENT":{
+  "NUMBER":"Número",
+  "CLIENT":"Cliente",
+  "ADDRESS":"Domicilio",
+  "UPLOADDATE":"Fecha de Carga",
+  "CREATED":"Creado",
+  "MODIFIED":"Modificado",
+  "CONFIRMED":"Confirmado",
+  "PRODUCTCODE":"Codigo de Producto",
+  "DESCRIPTION":"Descripción",
+  "DEPOSIT":"Depósito",
+  "QUANTITY":"Cantidad",
+  "PRICE":"Precio",
+  "DISCOUNTS":"Descuentos",
+  "TAXES":"Impuestos",
+  "TOTAL":"Total",
+  "NETTOTAL":"Total neto",
+  "TOTALDISCOUNTS":"Total Descuentos",
+  "TOTALTAXES":"Total Impuestos",
+  "CANCEL":"Cancelar",
+  "DETAILS":"Detalles"
+
+},
+"PURCHASESBYDOCUMENT":{
+  "ADDPURCHASE":"Agregar Compra",
+  "STARTDATE":"Fecha Inicial",
+  "ENDDATE":"Fecha Final",
+  "BRANCH":"Sucursal",
+  "SHOW":"Mostrar",
+  "DATE":"Fecha",
+  "TYPE":"Tipo",
+  "PV":"PV",
+  "NUMBER":"Número",
+  "SUPPLIER":"Proveedor",
+  "CANCELED":"Anulado",
+  "CONFIRMED":"Confirmado",
+  "SALESCONDITION":"Condición de Venta",
+  "DISCOUNTS":"Descuentos",
+  "TOTAL":"Total",
+  "AFFECTSSTOCK":"Afecta Stock",
+  "ACTIONS":"Acciones",
+  "EXCEL":"Excel",
+  "YES":"Si",
+  "NO":"No",
+  "FOOTERTOTALS":"Totales"
+
+},
+"PURCHASESBYPRODUCT":{
+  "STARTDATE":"Fecha Inicial",
+  "ENDDATE":"Fecha Final",
+  "BRANCH":"Sucursal",
+  "SHOW":"Mostrar",
+  "PRODUCT":"Producto",
+  "DATE":"Fecha",
+  "PV":"PV",
+  "RECEIPT":"Comprobante",
+  "EAN":"EAN",
+  "FAMILY":"Familia",
+  "PROVIDER":"Proveedor",
+  "CANCELED":"Anulado",
+  "QUANTITY":"Cantidad",
+  "PRICE":"Precio",
+  "TOTAL":"Total",
+  "OPERATOR":"Operador",
+  "FOOTERTOTALS":"Totales",
+  "AMOUNT":"Monto",
+  "EXCELTOTALS":"Excel (Totals)",
+  "EXCELDETAILS":"Excel (Details)",
+  "YES":"Si",
+  "NO":"No"
+
+},
+"PURCHASESPLAN":{
+  "DEPOSITS":"Depósitos",
+  "SHOW":"Mostrar",
+  "ONLYACTIVES":"Solo Activos",
+  "STOCKONLYBELOWMINIMUM":"Solo Stock debajo del mínimo",
+  "CODE":"Código",
+  "NAME":"Nombre",
+  "FAMILY":"Familia",
+  "SUPPLIER":"Proveedor",
+  "STOCK":"Stock",
+  "MINIMUMSTOCK":"Stock Mínimo",
+  "EXCEL":"Excel"
+
+},
+"REGISTRYPOPUP":{
+  "OPERATINGSYSTEM":"Systema Operativo",
+  "SYSTEMSTARTUP":"Inicio del Sistema",
+  "POSBERRYSTART":"Inicio de POSBerry",
+  "TEMPERATURE":"Temperatura",
+  "ACTUALTEMPERATURE":"Temperatura Actual",
+  "AVERAGETEMPERATURE":"Temperatura Promedio",
+  "MEMORY":"Memoria",
+  "FREEMEMORY":"Memoria Libre",
+  "TOTALMEMORY":"Memoria Total",
+  "PROCESSOR":"Procesador",
+  "CURRENTLOAD":"Carga actual",
+  "AVERAGELOAD":"Carga promedio",
+  "STORAGE":"Almacenamiento",
+  "FREESTORAGE":"Almacenamiento libre",
+  "TOTALSTORAGE":"Almacenamiento Total",
+  "CANCEL":"Cancelar"
+
+},
+"NEWROLPOPUP":{
+  "ROLE":"Rol",
+  "DESCRIPTION":"Descripción",
+  "SAVE":"Guardar",
+  "CANCEL":"Cancelar"
+},
+"ROLPOPUPCOMPONENT":{
+  "YOUCANADD":"Puede agregar",
+  "CANVIEWANDEDIT":"Puede ver y editar",
+  "CANDELETE":"Puede eliminar",
+  "SAVE":"Guardar",
+  "CANCEL":"Cancelar"
+
+},
+
+"ROLSETTINGSCOMPONENT":{
+  "ADDROLE":"Agregar Rol",
+  "FILTER":"Filtrar",
+  "ROLE":"Rol",
+  "ACTIONS":"Acciones"
+
+},
+"SALESPOPUP":{
+  "CLIENT":"Cliente",
+  "ADDRESS":"Domicilio",
+  "UPLOADDATE":"Fecha de Carga",
+  "CAE":"CAE",
+  "DETAILS":"Detalles",
+  "DESCRIPTION":"Descripción",
+  "QUANTITY":"Cantidad",
+  "PRICE":"Precio",
+  "DISCOUNTS":"Descuentos",
+  "TOTAL":"Total",
+  "PAYMENTMETHODS":"Medios de Pago",
+  "PAYMENTMETHOD":"Medio de Pago",
+  "AMOUNT":"Importe",
+  "REFERENCE":"Referencia",
+  "FEE":"Cuotas",
+  "NETTOTAL":"Total neto",
+  "TOTALDISCOUNTS":"Total Descuentos",
+  "TOTALTAXES":"Total Impuestos",
+  "CANCELEDON":"ANULADO el",
+  "BY":"Por",
+  "CANCEL":"Cancelar"
+
+},
+"STOCKPOPUPCOMPONENT":{
+  "DEPOSIT":"Depósito",
+  "STOCK":"Stock",
+  "DATE":"Fecha",
+  "DESCRIPTION":"Descripción",
+  "QUANTITY":"Cantidad",
+  "OPERATOR":"Operador",
+  "EXCEL":"Excel",
+  "CANCEL":"Cancelar"
+
+},
+"STOCKCOMPONENT":{
+  "DEPOSITS":"Depósitos",
+  "SHOW":"Mostrar",
+  "ONLYACTIVES":"Solo Activos",
+  "STOCKONLYBELOWMINIMUM":"Solo Stock debajo del mínimo",
+  "CODE":"Código",
+  "NAME":"Nombre",
+  "BARCODE":"Código de Barras",
+  "FAMILY":"Familia",
+  "STOCK":"Stock",
+  "MINIMUMSTOCK":"Stock Mínimo",
+  "ACTIONS":"Acciones",
+  "EXCEL":"Excel"
 }
+
 
 
 }
