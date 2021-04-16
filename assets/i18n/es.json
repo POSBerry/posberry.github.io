@@ -97,7 +97,6 @@
     "DEPOSIT": "Depósito",
     "WEBAPPS": "Web Apps",
     "DELIVERY": "Delivery",
-    
     "GRAPHICS":"Grafícos",
     "LIST":"Listado",
     "IMPORT":"Importar",
@@ -109,7 +108,7 @@
     "VATPURCHASES":"Iva Compras",
     "PURCHASESPLAN":"Plan de Compras",
     "BYDEPOSIT":"Por Depósito",
-    "BYDepósitoNDATE":"Por Depósito en Fecha",
+    "BYDEPOSITONDATE":"Por Depósito en Fecha",
     "VALUATIONBYPRODUCT":"Valoracion por Producto",
     "VALUATIONBYDEPOSIT":"Valoracion por Depósito",
     "CASHREPORTBYMOVEMENTS":"Reporte de caja por movimientos",
@@ -147,7 +146,9 @@
     "FAMILY": "Familia",
     "PROVIDER": "Proveedor",
     "MINIMUMSTOCK": "Stock Mínimo",
-    "ACTIONS": "Acciones"
+    "ACTIONS": "Acciones",
+    "EXCEL":"Excel",
+    "EXCELPRICE":"Excel (Sólo Precios)"
   },
   "PRODUCTSPOPUPCOMPONENT": {
     "CODE": "Código",
@@ -178,7 +179,15 @@
     "SAVE": "Guardar",
     "CANCEL": "Cancelar",
     "PUBLISHONTHEWEB": "Publicar en la web",
-    "COST": "Costo"
+    "COST": "Costo",
+    "DETAILS":"Detalles",
+    "PRICES":"Precios",
+    "OPTIONS":"Opciones",
+    "IMAGE":"Imágen",
+    "UPLOADIMAGE":"Cargar imágen",
+    "UPLOAD":"Upload",
+    "NOFILEUPLOADEDYET.":"Ningún archivo cargado todavía."
+
   },
   "REGISTRYCOMPONENT": {
     "INSTANCE": "Instancia",
@@ -214,7 +223,11 @@
     "ACTIVE": "Activo",
     "SAVE": "Guardar",
     "CANCEL": "Cancelar",
-    "FAMILY": "Familia"
+    "FAMILY": "Familia",
+    "NOFILEUPLOADEDYET.":"Ningún archivo cargado todavía.",
+    "IMAGE":"Imágen",
+    "UPLOADIMAGE":"Cargar imágen",
+    "UPLOAD":"Subir"
   },
   "CLIENTSCOMPONENT": {
     "CODE": "Código",
@@ -670,7 +683,8 @@
   "CREDENTIALS1":"Obtenga sus Credenciales de Mercado Pago",
   "CREDENTIALS2":"para llenar los siguientes campos. Antes de visitar el link, por favor inicie sesión en Mercado Pago para poder visualizar la página. En el link que esta resaltado",
   "CREDENTIALS3":"En la sección 'Checkout básico' encontrará los valores que se necesitan",
-  "SETTING":"Configuración"
+  "SETTING":"Configuración",
+  "NOFILEUPLOADEDYET.":"No file uploaded yet."
 
 },
 "CLIENTSUPLOAD":{
@@ -807,7 +821,8 @@
   "SAVE":"Guardar",
   "CANCEL":"Cancelar",
   "AMOUNT":"Monto",
-  "EACH":"Cada"
+  "EACH":"Cada",
+  "NOFILEUPLOADEDYET.":"Ningún archivo cargado todavía."
 },
 "NEWPURCHASES":{
   "SUPPLIER":"Proveedor",
@@ -925,7 +940,8 @@
   "SALESPRICE":"Precio de Venta",
   "FAMILY":"Familia",
   "MINIMUMSTOCK":"Stock Mínimo",
-  "SHOWPRODUCTS":"Mostrar productos"
+  "SHOWPRODUCTS":"Mostrar productos",
+  "NOFILEUPLOADEDYET.":"Ningún archivo cargado todavía."
 
 },
 "PROMOTIONS":{
@@ -1220,7 +1236,8 @@
   "OTHERMUNICIPALITY":"Otra Municipalidad",
   "OTHERPROVINCIAL":"Other Provincial",
   "TOTAL":"Total",
-  "FOOTERTOTALS":"Totales"
+  "FOOTERTOTALS":"Totales",
+  "ACTIONS":"Acciones"
 
 },
 "VATSALESCOMPONENT":{
@@ -1276,6 +1293,27 @@
   "CONFIRM":"Confirmar",
   "ACCEPT":"Aceptar",
   "CANCEL":"Cancelar"
+},
+"WIPEDATACOMPONENT":{
+  "CLEANDATA":"Limpiar Datos",
+  "ATTENTION":"ATENCIÓN",
+  "PARRAF1":"se borran stock, productos, ventas, movimientos de stock, compras, promociones, movimientos de caja y familias. Los datos de la empresa, configuración, sucursales y puntos de venta NO se borran. Haga copia de seguridadde los datos primero.",
+  "PARRAF2":"Solo la cuenta de administrador puede eliminar los datos.",
+  "DELETEDATA":"Eliminar Datos"
+},
+"ERRORCOMPONENT":{
+  "SERVERERROR!":"¡Error del Servidor!",
+  "BACKTODASHBOARD":"Volver al panel",
+  "REPORTTHISPROBLEM":"Informar este problema",
+  "WARNING":"Advertencia"
+},
+"REEDEMGIFTCARD":{
+  "REDEEMCUSTOMERPOINTS":"Canjear puntos del cliente",
+  "AVAILABLEPOINTS":"Puntos disponibles",
+  "PARRAF1":"Nota: si hubo movimientos recientes este valor puede variar, pero siempre se usará el calculo mas reciente al momento de canjear",
+  "SAVE":"Guardar",
+  "CANCEL":"Cancelar"
+
 }
 
 

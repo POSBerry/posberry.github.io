@@ -26,7 +26,7 @@
   "TOOLTIP": "Tooltip",
   "MENU": "Menu",
   "MEMBER": "Member",
-  "Save": "Save",
+  "SAVE": "Save",
   "SLIDER": "Slider",
   "SNACKBAR": "Snackbar",
   "FORMS": "Forms",
@@ -146,7 +146,9 @@
     "FAMILY": "Family",
     "PROVIDER": "Provider",
     "MINIMUMSTOCK": "Minimum Stock",
-    "ACTIONS": "Actions"
+    "ACTIONS": "Actions",
+    "EXCEL":"Excel",
+    "EXCELPRICE":"Excel (Prices Only)"
   },
   "PRODUCTSPOPUPCOMPONENT": {
     "CODE": "Code",
@@ -174,11 +176,18 @@
     "UNITSPERPACKAGE": "Units per Package",
     "MINIMUMNUMBEROFOPTIONS": "Minimum Number of Options",
     "MAXIMUMNUMBEROFOPTIONS": "Maximum Number of Options",
-    "Save": "Save",
+    "SAVE": "Save",
     "CANCEL": "Cancel",
     "PUBLISHONTHEWEB": "Publish on the Web",
-    "COST": "Cost"
-  },
+    "COST": "Cost",
+    "DETAILS":"Details",
+    "PRICES":"Prices",
+    "OPTIONS":"Options",
+    "IMAGE":"Image",
+    "UPLOADIMAGE":"Upload image",
+    "UPLOAD":"Upload",
+    "NOFILEUPLOADEDYET.":"No file uploaded yet."
+},
   "REGISTRYCOMPONENT": {
     "INSTANCE": "Instance",
     "DATE": "Date",
@@ -211,9 +220,15 @@
     "PRINTERNUMBER": "Printer Number",
     "FAVORITE": "Favorite",
     "ACTIVE": "Active",
-    "Save": "Save",
+    "SAVE": "Save",
     "CANCEL": "Cancel",
-    "FAMILY": "Family"
+    "FAMILY": "Family",
+    "NOFILEUPLOADEDYET.":"No file uploaded yet.",
+    "IMAGE":"Image",
+    "UPLOADIMAGE":"Upload image",
+    "UPLOAD":"Upload"
+
+
   },
   "CLIENTSCOMPONENT": {
     "CODE": "Code",
@@ -245,7 +260,7 @@
     "CREDITLIMIT": "Credit Limit",
     "FAVORITE": "Favorite",
     "ACTIVE": "Active",
-    "Save": "Save",
+    "SAVE": "Save",
     "CANCEL": "Cancel",
     "CREDIT": "Credit"
   },
@@ -279,7 +294,7 @@
     "ADDPROVIDER": "Add Provider",
     "COUNTRY": "Country",
     "OBSERVATION": "Observation",
-    "Save": "Save",
+    "SAVE": "Save",
     "CANCEL": "Cancel"
   },
   "CLIENTSKINDCOMPONENT": {
@@ -291,7 +306,7 @@
   "CLIENTSKINDPOPUPCOMPONENT": {
     "CLIENTKIND": "Client Kind",
     "ACTIVE": "Active",
-    "Save": "Save",
+    "SAVE": "Save",
     "CANCEL": "Cancel"
   },
   "TYPEOFPAYMENTCONDITION": {
@@ -302,7 +317,7 @@
   },
   "TYPEOFPAYMENTCONDITIONPOPUP": {
     "ACTIVE": "Active",
-    "Save": "Save",
+    "SAVE": "Save",
     "CANCEL": "Cancel",
     "TYPEOFPAYMENTCONDITIONNAME": "Type of Payment Condition",
     "TYPEOFAPPLICATION": "Type of Application"
@@ -315,7 +330,7 @@
   },
   "TYPEOFCASHMOVEMENTPOPUP": {
     "ACTIVE": "Active",
-    "Save": "Save",
+    "SAVE": "Save",
     "CANCEL": "Cancel",
     "TYPEOFCASHMOVEMENTNAME": "Type of Cash Movement",
     "TYPEOFAPPLICATION": "Type of Application"
@@ -388,7 +403,7 @@
     "EMAIL": "Email",
     "PHONE": "Phone",
     "ACTIVE": "Active",
-    "Save": "Save",
+    "SAVE": "Save",
     "CANCEL": "Cancel",
     "WHATSAPP":"WhatsApp",
     "WEBSCHEDULEPOLICY":"Web Schedule Policy",
@@ -413,7 +428,7 @@
   "TYPESOFSTOCKMOVEMENTSPOPUP": {
     "NAMEOFTHESTOCKMOVEMENTTYPE": "Name of the Stock Movement Type",
     "ACTIVE": "Active",
-    "Save": "Save",
+    "SAVE": "Save",
     "CANCEL": "Cancel"
   },
   "VENDORSETTINGSPOPUP": {
@@ -424,7 +439,7 @@
     "EMAIL": "Email",
     "LOCATION": "Location",
     "ACTIVE": "Active",
-    "Save": "Save",
+    "SAVE": "Save",
     "CANCEL": "Cancel",
     "DEFAULTCLIENT":"Default client"
 
@@ -440,7 +455,7 @@
     "DESCRIPTION": "Description",
     "POSCAEANUMBER": "POS CAEA Number",
     "ACTIVE": "Active",
-    "Save": "Save",
+    "SAVE": "Save",
     "CANCEL": "Cancel",
     "DETAILS":"Details",
     "NUMBEROFPV":"Number of PV",
@@ -477,7 +492,7 @@
     "BODY": "Body",
     "PRIORITY": "Priority",
     "ACTIVE": "Active",
-    "Save": "Save",
+    "SAVE": "Save",
     "CANCEL": "Cancel"
   },
   "BONDINGSETTINGS":{
@@ -675,7 +690,9 @@
   "CREDENTIALS1":"Get your Mercado Pago Credentials",
   "CREDENTIALS2":"to fill in the following fields. Before visiting the link, please log in to Mercado Pago to view the page. In the link that is highlighted",
   "CREDENTIALS3":"In the 'Basic checkout' section you will find the values ​​you need",
-  "SETTING":"Setting"
+  "SETTING":"Setting",
+  "NOFILEUPLOADEDYET.":"No file uploaded yet."
+
 },
 "CLIENTSUPLOAD":{
   "NOFILEUPLOADEDYET.":"No file uploaded yet.",
@@ -812,7 +829,9 @@
   "SAVE":"Save",
   "CANCEL":"Cancel",
   "AMOUNT":"Amount",
-  "EACH":"Each"
+  "EACH":"Each",
+  "NOFILEUPLOADEDYET.":"No file uploaded yet."
+
 },
 "NEWPURCHASES":{
   "SUPPLIER":"Supplier",
@@ -930,7 +949,9 @@
   "SALESPRICE":"Sales Price",
   "FAMILY":"Family",
   "MINIMUMSTOCK":"Minimum Stock",
-  "SHOWPRODUCTS":"Show Products"
+  "SHOWPRODUCTS":"Show Products",
+  "NOFILEUPLOADEDYET.":"No file uploaded yet."
+
 
 
 },
@@ -1222,7 +1243,8 @@
   "OTHERMUNICIPALITY":"Other Municipality",
   "OTHERPROVINCIAL":"Other Provincial",
   "TOTAL":"Total",
-  "FOOTERTOTALS":"Totals"
+  "FOOTERTOTALS":"Totals",
+  "ACTIONS":"Actions"
 },
 "VATSALESCOMPONENT":{
   "STARTDATE":"Start Date",
@@ -1237,7 +1259,7 @@
   "CUIT":"CUIT",
   "PROVINCE":"Province",
   "CANCELED":"Canceled",
-  "SALESCONDITION":"SALESCONDITION",
+  "SALESCONDITION":"Sales Condition",
   "NETTOTAL":"Net total",
   "DISCOUNTS":"Discounts",
   "VAT0":"VAT 0",
@@ -1277,6 +1299,27 @@
   "CONFIRM":"Confirm",
   "ACCEPT":"Accept",
   "CANCEL":"Cancel"
+},
+"WIPEDATACOMPONENT":{
+  "CLEANDATA":"Clean data",
+  "ATTENTION":"ATTENTION",
+  "PARRAF1":"Stock, products, sales, stock movements, purchases, promotions, cash movements and families are deleted. The data of the company, configuration, branches and points of sale are NOT deleted. Backup data first",
+  "PARRAF2":"Only the administrator account can delete the data.",
+  "DELETEDATA":"Delete Data"
+},
+"ERRORCOMPONENT":{
+  "SERVERERROR!":"Server Error!",
+  "BACKTODASHBOARD":"Back to Dashboard",
+  "REPORTTHISPROBLEM":"Report this Problem",
+  "WARNING":"warning"
+},
+"REEDEMGIFTCARD":{
+  "REDEEMCUSTOMERPOINTS":"Redeem customer points",
+  "AVAILABLEPOINTS":"Available points",
+  "PARRAF1":"Note: if there were recent movements this value may vary, but the most recent calculation will always be used at the time of redemption",
+  "SAVE":"Save",
+  "CANCEL":"Cancel"
+
 }
 
 }
