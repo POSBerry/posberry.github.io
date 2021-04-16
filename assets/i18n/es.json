@@ -349,7 +349,7 @@
     "DATE": "Fecha",
     "TYPE": "Tipo",
     "PV": "PV",
-    "NUMBER": "Numero",
+    "NUMBER": "Número",
     "CLIENT": "Cliente",
     "ADDRESS": "Dirección",
     "VATCONDITION": "Condición IVA",
@@ -400,7 +400,7 @@
     "ONLINESTORE":"Tienda Online",
     "PRICELIST":"Listado de Precios",
     "SEEPRODUCTSWITHZEROPRICE":"Ver productos con precio cero",
-    "BRANCHNUMBER":"Numero de Sucursal",
+    "BRANCHNUMBER":"Número de Sucursal",
     "DETAILS":"detalles"
   },
   "TYPESOFSTOCKMOVEMENTS": {
@@ -424,7 +424,8 @@
     "LOCATION": "Localidad",
     "ACTIVE": "Activo",
     "SAVE": "Guardar",
-    "CANCEL": "Cancelar"
+    "CANCEL": "Cancelar",
+    "DEFAULTCLIENT":"Cliente predeterminado"
   },
   "POINTOFSALESETTINGS": {
     "ADDPOINTOFSALE": "Agregar Punto de Venta",
@@ -439,7 +440,7 @@
     "SAVE": "Guardar",
     "CANCEL": "Cancelar",
     "DETAILS":"Detalles",
-    "NUMBEROFPV":"Numero de PV",
+    "NUMBEROFPV":"Número de PV",
     "BRANCHOFFICE":"Sucursal",
     "DISCOUNTCAP":"Tope de Descuento",
     "USECUSTOMERSCREEN":"Usar Pantalla al Cliente",
@@ -950,7 +951,7 @@
   "CREATED":"Creado",
   "MODIFIED":"Modificado",
   "CONFIRMED":"Confirmado",
-  "PRODUCTCODE":"Codigo de Producto",
+  "PRODUCTCODE":"Código de Producto",
   "DESCRIPTION":"Descripción",
   "DEPOSIT":"Depósito",
   "QUANTITY":"Cantidad",
@@ -1117,8 +1118,165 @@
   "MINIMUMSTOCK":"Stock Mínimo",
   "ACTIONS":"Acciones",
   "EXCEL":"Excel"
-}
+},
+"STOCKMOVEMENTSPOPUP":{
+  "PRODUCTCODE":"Código de Producto",
+  "PRODUCT":"Producto",
+  "QUANTITY":"Cantidad",
+  "DEPOSIT":"Depósito",
+  "CANCEL":"Cancelar",
+  "OPERATOR":"Operador",
+  "DETAILS":"Detalles"
 
+},
+"STOCKMOVEMENTS":{
+  "STARTDATE":"Fecha Inicial",
+  "ENDDATE":"Fecha Final",
+  "BRANCH":"Sucursal",
+  "SHOW":"Mostrar",
+  "MOVEMENT":"Movimiento",
+  "PV":"PV",
+  "NUMBER":"Número",
+  "TYPE":"Tipo",
+  "OBSERVATION":"Observación",
+  "ORIGIN":"Origen",
+  "DESTINATION":"Destino",
+  "CANCELED":"Anulado",
+  "APPLIED":"Aplicado",
+  "ACTIONS":"Acciones",
+  "TOTALITEMS":"Items Totales",
+  "EXCEL":"Excel",
+  "YES":"Si",
+  "NO":"No",
+  "PRODUCTCODE":"Código de Producto",
+  "PRODUCT":"Producto",
+  "QUANTITY":"Cantidad",
+  "DEPOSIT":"Depósito",
+  "OPERATOR":"Operador"
+  
+},
+"STOCKONDATE":{
+  "DEPOSITS":"Depósitos",
+  "SHOW":"Mostrar",
+  "ONLYACTIVES":"Solo Activos",
+  "STOCKONLYBELOWMINIMUM":"Solo Stock debajo del mínimo",
+  "CODE":"Código",
+  "NAME":"Nombre",
+  "BARCODE":"Código de Barras",
+  "FAMILY":"Familia",
+  "STOCKONDATE":"Stock en Fecha",
+  "MINIMUMSTOCK":"Stock Mínimo",
+  "DATE":"Fecha",
+  "ACTIONS":"Acciones",
+  "EXCEL":"Excel"
+
+},
+"TAXESPOPUP":{
+  "TAX":"Impuesto",
+  "PERCENTAGE":"Porcentaje",
+  "TYPE":"Tipo",
+  "ACTIVE":"Activo",
+  "SAVE":"Guardar",
+  "CANCEL":"Cancelar"
+},
+"TAXESCOMPONENT":{
+  "ADDTAX":"Agregar Impuesto",
+  "FILTER":"Filtrar",
+  "TAX":"Impuesto",
+  "ACTIONS":"Acciones"
+},
+"TICKETSSETTINGSCOMPONENT":{
+  "PARRAF1":"Puede cambiar el logo, el encabezado y el pie de página de los tickets impresos.",
+  "PARRAF2":"Las imágen debe estar en",
+  "PARRAF3":"formato PNG sin transparencia con fondo blanco, texto y/o logo negro",
+  "PARRAF4":"(Resolución recomendada 500 pixeles de ancho por 130 pixeles de alto). Si tiene transparencia o si tiene color / escala de grises",
+  "PARRAF5":"se convertirá a blanco y negro automáticamente",
+  "DELETELOGO":"Eliminar Logo",
+  "UPLOADIMAGE":"Cargar imágen",
+  "UPLOAD":"Subir",
+  "SAVE":"Guardar"
+},
+"VATPURCHASESCOMPONENT":{
+  "STARTDATE":"Fecha Inicial",
+  "ENDDATE":"Fecha Final",
+  "BRANCH":"Sucursal",
+  "SHOW":"Mostrar",
+  "DATE":"Fecha",
+  "TYPE":"Tipo",
+  "PV":"PV",
+  "NUMBER":"Número",
+  "SUPPLIER":"Proveedor",
+  "CUIT":"CUIT",
+  "PROVINCE":"Provincia",
+  "YES":"Si",
+  "NO":"No",
+  "SALESCONDITION":"Condición de Venta",
+  "NETTOTAL":"Total Neto",
+  "DISCOUNTS":"Descuentos",
+  "VAT":"IVA",
+  "DGR":"DGR",
+  "INTERNAL":"Interno",
+  "OTHERS":"Otros",
+  "OTHERMUNICIPALITY":"Otra Municipalidad",
+  "OTHERPROVINCIAL":"Other Provincial",
+  "TOTAL":"Total",
+  "FOOTERTOTALS":"Totales"
+
+},
+"VATSALESCOMPONENT":{
+  "STARTDATE":"Fecha Inicial",
+  "ENDDATE":"Fecha Final",
+  "BRANCH":"Sucursal",
+  "SHOW":"Mostrar",
+  "DATE":"Fecha",
+  "TYPE":"Tipo",
+  "PV":"PV",
+  "NUMBER":"Número",
+  "CLIENT":"Cliente",
+  "CUIT":"CUIT",
+  "PROVINCE":"Provincia",
+  "CANCELED":"Anulado",
+  "SALESCONDITION":"Condición de Venta",
+  "NETTOTAL":"Total Neto",
+  "DISCOUNTS":"Descuentos",
+  "VAT0":"IVA 0",
+  "VAT10.5":"IVA 10.5",
+  "VAT21":"IVA 21",
+  "GROSSINCOME":"Ingresos Brutos",
+  "INTERNALTAX":"Impuesto Interno",
+  "TOTAL":"Total",
+  "TOTALITEMS":"Items Totales",
+  "EXCEL":"Excel",
+  "YES":"Si",
+  "NO":"No"
+
+},"VENDORSETTINGSCOMPONENT":{
+  "ADDSELLER":"Agregar Vendedor",
+  "FILTER":"Filtrar",
+  "CODE":"Código",
+  "NAME":"Nombre",
+  "SURNAME":"Apellido",
+  "ACTIONS":"Acciones"
+},
+"WEBAPPSSETTINGS":{
+  "NAME":"Nombre",
+  "URL":"URL",
+  "SAVE":"Guardar",
+  "CANCEL":"Cancelar"
+},
+"WEBAPPSSETTINGSCOMPONENT":{
+  "ADDWEBAPP":"Agregar Web App",
+  "FILTER":"Filtrar",
+  "NAME":"Nombre",
+  "ACTIONS":"Acciones"
+
+},
+"WIPEDATASETTINGS":{
+  "PARRAF1":"Escriba la palabra CONFIRMO en mayúsculas para eliminar todos los datos.",
+  "CONFIRM":"Confirmar",
+  "ACCEPT":"Aceptar",
+  "CANCEL":"Cancelar"
+}
 
 
 }

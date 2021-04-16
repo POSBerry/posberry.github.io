@@ -26,7 +26,7 @@
   "TOOLTIP": "Tooltip",
   "MENU": "Menu",
   "MEMBER": "Member",
-  "SAVE": "Save",
+  "Save": "Save",
   "SLIDER": "Slider",
   "SNACKBAR": "Snackbar",
   "FORMS": "Forms",
@@ -174,7 +174,7 @@
     "UNITSPERPACKAGE": "Units per Package",
     "MINIMUMNUMBEROFOPTIONS": "Minimum Number of Options",
     "MAXIMUMNUMBEROFOPTIONS": "Maximum Number of Options",
-    "SAVE": "Save",
+    "Save": "Save",
     "CANCEL": "Cancel",
     "PUBLISHONTHEWEB": "Publish on the Web",
     "COST": "Cost"
@@ -211,7 +211,7 @@
     "PRINTERNUMBER": "Printer Number",
     "FAVORITE": "Favorite",
     "ACTIVE": "Active",
-    "SAVE": "Save",
+    "Save": "Save",
     "CANCEL": "Cancel",
     "FAMILY": "Family"
   },
@@ -245,7 +245,7 @@
     "CREDITLIMIT": "Credit Limit",
     "FAVORITE": "Favorite",
     "ACTIVE": "Active",
-    "SAVE": "Save",
+    "Save": "Save",
     "CANCEL": "Cancel",
     "CREDIT": "Credit"
   },
@@ -279,7 +279,7 @@
     "ADDPROVIDER": "Add Provider",
     "COUNTRY": "Country",
     "OBSERVATION": "Observation",
-    "SAVE": "Save",
+    "Save": "Save",
     "CANCEL": "Cancel"
   },
   "CLIENTSKINDCOMPONENT": {
@@ -291,7 +291,7 @@
   "CLIENTSKINDPOPUPCOMPONENT": {
     "CLIENTKIND": "Client Kind",
     "ACTIVE": "Active",
-    "SAVE": "Save",
+    "Save": "Save",
     "CANCEL": "Cancel"
   },
   "TYPEOFPAYMENTCONDITION": {
@@ -302,7 +302,7 @@
   },
   "TYPEOFPAYMENTCONDITIONPOPUP": {
     "ACTIVE": "Active",
-    "SAVE": "Save",
+    "Save": "Save",
     "CANCEL": "Cancel",
     "TYPEOFPAYMENTCONDITIONNAME": "Type of Payment Condition",
     "TYPEOFAPPLICATION": "Type of Application"
@@ -315,7 +315,7 @@
   },
   "TYPEOFCASHMOVEMENTPOPUP": {
     "ACTIVE": "Active",
-    "SAVE": "Save",
+    "Save": "Save",
     "CANCEL": "Cancel",
     "TYPEOFCASHMOVEMENTNAME": "Type of Cash Movement",
     "TYPEOFAPPLICATION": "Type of Application"
@@ -388,7 +388,7 @@
     "EMAIL": "Email",
     "PHONE": "Phone",
     "ACTIVE": "Active",
-    "SAVE": "Save",
+    "Save": "Save",
     "CANCEL": "Cancel",
     "WHATSAPP":"WhatsApp",
     "WEBSCHEDULEPOLICY":"Web Schedule Policy",
@@ -413,7 +413,7 @@
   "TYPESOFSTOCKMOVEMENTSPOPUP": {
     "NAMEOFTHESTOCKMOVEMENTTYPE": "Name of the Stock Movement Type",
     "ACTIVE": "Active",
-    "SAVE": "Save",
+    "Save": "Save",
     "CANCEL": "Cancel"
   },
   "VENDORSETTINGSPOPUP": {
@@ -424,8 +424,11 @@
     "EMAIL": "Email",
     "LOCATION": "Location",
     "ACTIVE": "Active",
-    "SAVE": "Save",
-    "CANCEL": "Cancel"
+    "Save": "Save",
+    "CANCEL": "Cancel",
+    "DEFAULTCLIENT":"Default client"
+
+
   },
   "POINTOFSALESETTINGS": {
     "ADDPOINTOFSALE": "Add Point of Sale",
@@ -437,7 +440,7 @@
     "DESCRIPTION": "Description",
     "POSCAEANUMBER": "POS CAEA Number",
     "ACTIVE": "Active",
-    "SAVE": "Save",
+    "Save": "Save",
     "CANCEL": "Cancel",
     "DETAILS":"Details",
     "NUMBEROFPV":"Number of PV",
@@ -474,7 +477,7 @@
     "BODY": "Body",
     "PRIORITY": "Priority",
     "ACTIVE": "Active",
-    "SAVE": "Save",
+    "Save": "Save",
     "CANCEL": "Cancel"
   },
   "BONDINGSETTINGS":{
@@ -536,7 +539,7 @@
 "CASHREPORTPOPUP":{
   "FINALBALANCE":"Final balance",
   "POINTOFSALE":"Point of sale",
-  "STARTDATE":"Start date",
+  "STARTDATE":"Start Date",
   "CLOSINGDATE":"Closing date",
   "BALANCES":"Balances",
   "INITIAL":"Initial",
@@ -645,7 +648,7 @@
   "GROSSINCOME":"Gross income",
   "MAXIMUMTICKETAMOUNT":"Maximum Ticket Amount",
   "PRICELISTS":"Price lists",
-  "SAVE":"save",
+  "SAVE":"Save",
   "EMITTYPEM":"Emit type M",
   "USERG4520/19":"Use RG 4520/19",
   "USETAX-FREEPRICESONPRODUCTS":"Use Tax-Free Prices on Products",
@@ -1117,6 +1120,163 @@
   "MINIMUMSTOCK":"Minimum stock",
   "ACTIONS":"Actions",
   "EXCEL":"Excel"
+},
+"STOCKMOVEMENTSPOPUP":{
+  "PRODUCTCODE":"Product code",
+  "PRODUCT":"Product",
+  "QUANTITY":"Quantity",
+  "DEPOSIT":"Deposit",
+  "OPERATOR":"Operator",
+  "CANCEL":"Cancel",
+  "DETAILS":"Details"
+
+},
+"STOCKMOVEMENTS":{
+  "STARTDATE":"Start Date",
+  "ENDDATE":"End Date",
+  "BRANCH":"Branch",
+  "SHOW":"Show",
+  "MOVEMENT":"Movement",
+  "PV":"PV",
+  "NUMBER":"Number",
+  "TYPE":"Type",
+  "OBSERVATION":"Obsevation",
+  "ORIGIN":"origin",
+  "DESTINATION":"Destination",
+  "CANCELED":"Canceled",
+  "APPLIED":"Applied",
+  "ACTIONS":"Actions",
+  "TOTALITEMS":"Total Items",
+  "EXCEL":"Excel",
+  "YES":"Yes",
+  "NO":"No",
+  "PRODUCTCODE":"Product code",
+  "PRODUCT":"Product",
+  "QUANTITY":"Quantity",
+  "DEPOSIT":"Deposit",
+  "OPERATOR":"Operator"
+
+},
+"STOCKONDATE":{
+  "DEPOSITS":"Deposits",
+  "SHOW":"Show",
+  "ONLYACTIVES":"Only Actives",
+  "STOCKONLYBELOWMINIMUM":"Stock only below minimum",
+  "CODE":"Code",
+  "NAME":"Name",
+  "BARCODE":"Barcode",
+  "FAMILY":"Family",
+  "STOCKONDATE":"Stock on Date",
+  "MINIMUMSTOCK":"Minimum Stock",
+  "DATE":"Date",
+  "ACTIONS":"Actions",
+  "EXCEL":"Excel"
+
+},
+"TAXESPOPUP":{
+  "TAX":"Tax",
+  "PERCENTAGE":"Percentage",
+  "TYPE":"type",
+  "ACTIVE":"Active",
+  "SAVE":"Save",
+  "CANCEL":"Cancel"
+},
+"TAXESCOMPONENT":{
+  "ADDTAX":"Add Tax",
+  "FILTER":"Filter",
+  "TAX":"Tax",
+  "ACTIONS":"Actions"
+},
+"TICKETSSETTINGSCOMPONENT":{
+  "PARRAF1":"You can change the logo, header and footer of printed tickets.",
+  "PARRAF2":"The images must be in ",
+  "PARRAF3":"PNG format without transparency with white background, text and / or black logo",
+  "PARRAF4":"(Recommended resolution 500 pixels wide by 130 pixels high). If it has transparency or if it has color / grayscale",
+  "PARRAF5":"it will turn black and white automatically",
+  "DELETELOGO":"Delete Logo",
+  "UPLOADIMAGE":"Upload image",
+  "UPLOAD":"Upload",
+  "SAVE":"Save"
+},
+"VATPURCHASESCOMPONENT":{
+  "STARTDATE":"Start Date",
+  "ENDDATE":"End Date",
+  "BRANCH":"Branch",
+  "SHOW":"Show",
+  "DATE":"Date",
+  "TYPE":"Type",
+  "PV":"PV",
+  "NUMBER":"Number",
+  "SUPPLIER":"Supplier",
+  "CUIT":"CUIT",
+  "PROVINCE":"Province",
+  "YES":"Yes",
+  "NO":"No",
+  "SALESCONDITION":"Sales Condition",
+  "NETTOTAL":"Net total",
+  "DISCOUNTS":"Discounts",
+  "VAT":"VAT",
+  "DGR":"DGR",
+  "INTERNAL":"Internal",
+  "OTHERS":"Others",
+  "OTHERMUNICIPALITY":"Other Municipality",
+  "OTHERPROVINCIAL":"Other Provincial",
+  "TOTAL":"Total",
+  "FOOTERTOTALS":"Totals"
+},
+"VATSALESCOMPONENT":{
+  "STARTDATE":"Start Date",
+  "ENDDATE":"End Date",
+  "BRANCH":"Branch",
+  "SHOW":"Show",
+  "DATE":"Date",
+  "TYPE":"Type",
+  "PV":"PV",
+  "NUMBER":"Number",
+  "CLIENT":"Client",
+  "CUIT":"CUIT",
+  "PROVINCE":"Province",
+  "CANCELED":"Canceled",
+  "SALESCONDITION":"SALESCONDITION",
+  "NETTOTAL":"Net total",
+  "DISCOUNTS":"Discounts",
+  "VAT0":"VAT 0",
+  "VAT10.5":"VAT 10.5",
+  "VAT21":"VAT 21",
+  "GROSSINCOME":"gross income",
+  "INTERNALTAX":"Internal Tax",
+  "TOTAL":"Total",
+  "TOTALITEMS":"Total Items",
+  "EXCEL":"Excel",
+  "YES":"Yes",
+  "NO":"No"
+
+},"VENDORSETTINGSCOMPONENT":{
+  "ADDSELLER":"Add Seller",
+  "FILTER":"Filter",
+  "CODE":"Code",
+  "NAME":"Name",
+  "SURNAME":"Surname",
+  "ACTIONS":"Actions"
+},
+"WEBAPPSSETTINGS":{
+  "NAME":"Name",
+  "URL":"URL",
+  "SAVE":"Save",
+  "CANCEL":"Cancel"
+},
+"WEBAPPSSETTINGSCOMPONENT":{
+  "ADDWEBAPP":"Add Web App",
+  "FILTER":"Filter",
+  "NAME":"Name",
+  "ACTIONS":"Actions"
+
+},
+"WIPEDATASETTINGS":{
+  "PARRAF1":"Write the word 'CONFIRMO' in capital letters to delete all data.",
+  "CONFIRM":"Confirm",
+  "ACCEPT":"Accept",
+  "CANCEL":"Cancel"
 }
 
 }
