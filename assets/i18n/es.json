@@ -126,7 +126,22 @@
     "CUSTOMERDISPLAY":"Customer Display",
     "COMPANY":"Empresa",
     "PAYMENTS":"Pagos",
-    "PRICES":"Precios"
+    "PRICES":"Precios",
+    "IMPORTS":"Importación",
+    "NEWPROMOTION":"Nueva Promoción",
+    "EDITPROMOTION":"Editar Promoción",
+    "PRICESCHANGE":"Cambio de precios",
+    "CHECKINGACCOUNT":"Cuentas Corrientes",
+    "NEWPURCHASE":"Nueva Compra",
+    "STOCKVALUEDBYDEPOSIT":"Stock Valorizado por deposito",
+    "STOCKVALUEDBYPRODUCT":"Stock Valorizado por producto",
+    "STOCKONDATE":"Stock en Fecha",
+    "NEWSALE":"Nueva Venta",
+    "REPORTBYTYPESOFMOVEMENT":"Reporte Por tipos de Movimiento",
+    "PAYMENTSETTINGS":"Configuración de Pagos",
+    "PAYMENTDETAILSETTINGS":"Detalle de Configuración de Pagos"
+    
+
   },
   "APPLOADER": {
     "PLEASEWAIT": "Por favor espere"
@@ -493,7 +508,13 @@
     "FILTER":"Filtrar",
     "BRANCHOFFICE":"Sucursal",
     "HARDWAREID":"Hardware ID",
-    "ACTIONS":"Acciones"
+    "ACTIONS":"Acciones",
+    "LINKINGDEVICESWITHPOINTOFSALE":"Vinculación de dispositivos con punto de venta",
+    "PARRAF1":"Al iniciar por primera vez el sistema o si no hay ningún dispositivo vinculado, POSBerry asocia su equipo (Hardware ID) con el punto de venta automáticamente. Solo puede haber un equipo vinculado por punto de venta a la vez.",
+    "PARRAF2":"Puede ver el Hardware ID en el programa de escritorio en el menú 'Opciones > Acerca de', en la pestaña 'Informe del Sistema', al lado del nombre del 'Sistema Operativo'.",
+    "UNLINK":"Desvincular",
+    "PARRAF3":"si va a desvincular un dispositivo, asegúrese que el programa de escritorio POSBerry esta cerrado en el equipo que va a desvincular."
+
   },
   "BYPRODUCT":{
     "STARTDATE":"Fecha Inicial",
@@ -1210,7 +1231,8 @@
   "DELETELOGO":"Eliminar Logo",
   "UPLOADIMAGE":"Cargar imágen",
   "UPLOAD":"Subir",
-  "SAVE":"Guardar"
+  "SAVE":"Guardar",
+  "NOFILEUPLOADEDYET.":"Ningún archivo cargado todavía."
 },
 "VATPURCHASESCOMPONENT":{
   "STARTDATE":"Fecha Inicial",
@@ -1314,6 +1336,13 @@
   "SAVE":"Guardar",
   "CANCEL":"Cancelar"
 
+},
+"USERINFOPOPUP":{
+  "CREATED":"Creado",
+  "AT":"a las",
+  "BY":"por",
+  "MODIFIED":"Modificado",
+  "CANCEL":"Cancelar"
 }
 
 

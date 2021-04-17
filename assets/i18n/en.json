@@ -126,7 +126,23 @@
     "CUSTOMERDISPLAY":"Customer Display",
     "COMPANY":"Company",
     "PAYMENTS":"Payments",
-    "PRICES":"Prices"
+    "PRICES":"Prices",
+    "IMPORTS":"Import",
+    "NEWPROMOTION":"New Promotion",
+    "EDITPROMOTION":"Edit Promotion",
+    "PRICESCHANGE":"Prices Change",
+    "CHECKINGACCOUNT":"Checking Accounts",
+    "NEWPURCHASE":"New Purchase",
+    "STOCKVALUEDBYDEPOSIT":"Stock valued by deposit",
+    "STOCKVALUEDBYPRODUCT":"Stock Valued by product",
+    "STOCKONDATE":"Stock on Date",
+    "NEWSALE":"New Sale",
+    "REPORTBYTYPESOFMOVEMENT":"Report By types of Movement",
+    "PAYMENTSETTINGS":"Payment Settings",
+    "PAYMENTDETAILSETTINGS":"Payment Details Settings"
+
+
+
   },
   "APPLOADER": {
     "PLEASEWAIT": "Please wait"
@@ -499,7 +515,14 @@
     "FILTER":"Filter",
     "BRANCHOFFICE":"Branch Office",
     "HARDWAREID":"Hardware ID",
-    "ACTIONS":"Actions"
+    "ACTIONS":"Actions",
+    "LINKINGDEVICESWITHPOINTOFSALE":"Linking Devices with Point of Sale",
+    "PARRAF1":"When starting the system for the first time or if there is no paired device, POSBerry associates your equipment (Hardware ID) with the point of sale automatically. There can only be one linked team per point of sale at a time.",
+    "PARRAF2":"You can see the Hardware ID in the desktop program in the 'Options> About' menu, in the 'System Report' tab, next to the 'Operating System' name.",
+    "UNLINK":"Unlink",
+    "PARRAF3":"If you are unpairing a device, make sure the POSBerry desktop program is closed on the computer to be unpaired."
+
+
   },
 "BYPRODUCT":{
   "STARTDATE":"Start Date",
@@ -1217,7 +1240,9 @@
   "DELETELOGO":"Delete Logo",
   "UPLOADIMAGE":"Upload image",
   "UPLOAD":"Upload",
-  "SAVE":"Save"
+  "SAVE":"Save",
+  "NOFILEUPLOADEDYET.":"No file uploaded yet."
+
 },
 "VATPURCHASESCOMPONENT":{
   "STARTDATE":"Start Date",
@@ -1320,6 +1345,13 @@
   "SAVE":"Save",
   "CANCEL":"Cancel"
 
+},
+"USERINFOPOPUP":{
+  "CREATED":"Created",
+  "AT":"at",
+  "BY":"by",
+  "MODIFIED":"Modified",
+  "CANCEL":"Cancel"
 }
 
 }
