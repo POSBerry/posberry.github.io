@@ -166,6 +166,8 @@
     "EXCELPRICE":"Excel (Sólo Precios)"
   },
   "PRODUCTSPOPUPCOMPONENT": {
+    "ADDPRODUCT": "AGREGAR PRODUCTO",
+    "UPDATEPRODUCT": "ACTUALIZAR PRODUCTO",
     "CODE": "Código",
     "NAME": "Nombre",
     "BARCODE": "Código de Barras",
@@ -242,7 +244,9 @@
     "NOFILEUPLOADEDYET.":"Ningún archivo cargado todavía.",
     "IMAGE":"Imágen",
     "UPLOADIMAGE":"Cargar imágen",
-    "UPLOAD":"Subir"
+    "UPLOAD":"Subir",
+    "NEWFAMILY":"AGREGAR FAMILIA",
+    "UPDATEFAMILY":"ACTUALIZAR FAMILIA"
   },
   "CLIENTSCOMPONENT": {
     "CODE": "Código",
@@ -276,7 +280,11 @@
     "ACTIVE": "Activo",
     "SAVE": "Guardar",
     "CANCEL": "Cancelar",
-    "CREDIT": "Credito"
+    "CREDIT": "Credito",
+    "NEWCLIENT":"NUEVO CLIENTE",
+    "UPDATECLIENT":"ACTUALIZAR CLIENTE",
+    "ADDPROVIDER":"AGREGAR PROVEEDOR",
+    "EDITPROVIDER":"EDITAR PROVEEDOR"
   },
   "PROVIDERCOMPONENT": {
     "CODE": "Código",
@@ -319,7 +327,9 @@
     "CLIENTKIND": "Tipo de Cliente",
     "ACTIVE": "Activo",
     "SAVE": "Guardar",
-    "CANCEL": "Cancelar"
+    "CANCEL": "Cancelar",
+    "ADDCLIENTKIND":"AGREGAR TIPO DE CLIENTE",
+    "UPDATECLIENTKIND":"ACTUALIZAR TIPO DE CLIENTE"
   },
   "TYPEOFPAYMENTCONDITION": {
     "ACTIONS": "Acciones",
@@ -345,7 +355,9 @@
     "SAVE": "Guardar",
     "CANCEL": "Cancelar",
     "TYPEOFCASHMOVEMENTNAME": "Tipo de Movimiento de Caja",
-    "TYPEOFAPPLICATION": "Tipo de Aplicación"
+    "TYPEOFAPPLICATION": "Tipo de Aplicación",
+    "ADDTYPEOFCASHMOVEMENT":"AGREGAR TIPO DE MOVIMIENTO DE CAJA",
+    "EDITTYPEOFCASHMOVEMENT":"EDITAR TIPO DE MOVIMIENTO DE CAJA"
   },
   "VALUEDSTOCK": {
     "DATE": "Fecha",
@@ -426,10 +438,12 @@
     "USEWEBDELIVERY":"Usar web Delivery",
     "USEWEBPICKUP":"Usar Web Pickup",
     "ONLINESTORE":"Tienda Online",
-    "PRICELIST":"Listado de Precios",
+    "USEPRICELIST":"Usar Lista de Precios:",
     "SEEPRODUCTSWITHZEROPRICE":"Ver productos con precio cero",
     "BRANCHNUMBER":"Número de Sucursal",
-    "DETAILS":"detalles"
+    "DETAILS":"Detalles",
+    "ADDBRANCH":"AGREGAR SUCURSAL",
+    "UPDATEBRANCH":"ACTUALIZAR SUCURSAL"
   },
   "TYPESOFSTOCKMOVEMENTS": {
     "FILTER": "Filtrar",
@@ -441,7 +455,9 @@
     "NAMEOFTHESTOCKMOVEMENTTYPE": "Nombre del Tipo de Movimiento de Stock",
     "ACTIVE": "Activo",
     "SAVE": "Guardar",
-    "CANCEL": "Cancelar"
+    "CANCEL": "Cancelar",
+    "ADDTYPEOFSTOCKMOVEMENT":"AGREGAR TIPO DE MOVIMIENTO DE STOCK",
+    "EDTITYPEOFSTOCKMOVEMENT":"EDITAR TIPO DE MOVIMIENTO DE STOCK"
   },
   "VENDORSETTINGSPOPUP": {
     "CODE": "Código",
@@ -453,7 +469,9 @@
     "ACTIVE": "Activo",
     "SAVE": "Guardar",
     "CANCEL": "Cancelar",
-    "DEFAULTCLIENT":"Cliente predeterminado"
+    "DEFAULTCLIENT":"Cliente predeterminado",
+    "ADDSELLER":"AGREGAR VENDEDOR",
+    "EDITSELLER":"EDITAR VENDEDOR"
   },
   "POINTOFSALESETTINGS": {
     "ADDPOINTOFSALE": "Agregar Punto de Venta",
@@ -485,7 +503,9 @@
     "ELECTRONICINVOICE-FILE.KEY":"Factura Electrónica - Archivo.key",
     "ELECTRONICINVOICE-FILE.CRT":"Factura Electrónica - Archivo.crt",
     "BILLINGTYPE":"Tipo de Facturación",
-    "ELECTRONICBILL":"Factura Electrónica"
+    "ELECTRONICBILL":"Factura Electrónica",
+    "ADDPOINTOFSALE":"AGREGAR PUNTO DE VENTA",
+    "EDITPOINTOFSALE":"EDITAR PUNTO DE VENTA"
 
 
     
@@ -502,7 +522,9 @@
     "PRIORITY": "Prioridad",
     "ACTIVE": "Activo",
     "SAVE": "Guardar",
-    "CANCEL": "Cancelar"
+    "CANCEL": "Cancelar",
+    "ADDNOTIFICATION":"AGREGAR NOTIFICACIÓN",
+    "EDITNOTIFICATION":"EDITAR NOTIFICACIÓN"
   },
   "BONDINGSETTINGS":{
     "FILTER":"Filtrar",
@@ -737,7 +759,9 @@
   "BRANCH":"Sucursal",
   "ACTIVE":"Activo",
   "SAVE":"Guardar",
-  "CANCEL":"Cancelar"
+  "CANCEL":"Cancelar",
+  "ADDDELIVERY":"AGREGAR DELIVERY",
+  "EDITDELIVERY":"EDITAR DELIVERY"
 },
 "DELIVERYSETTINGS":{
   "ADDDELIVERY":"Agregar Delivery",
@@ -777,14 +801,16 @@
   "ACTIONS":"Acciones"
 },
 "GIFTCARDTYPESPOPUP":{
-  "PRICELIST":"Lista de Precios",
+  "TYPELIST":"Lista de Tipos",
   "PRODUCT":"Producto",
   "AMOUNT":"Monto $",
   "LOYALTYPOINTS":"Puntos Fidelizacion",
   "DAYSOFVALIDITY":"Dias de Vigencia",
   "ACTIVE":"Activo",
   "SAVE":"Guardar",
-  "CANCEL":"Cancelar"
+  "CANCEL":"Cancelar",
+  "ADDGIFTCARDTYPES":"AGREGAR TIPO DE GIFTCARD",
+  "EDITGIFTCARDTYPES":"EDITAR TIPO DE GIFTCARD"
 },
 "GIFTCARDTYPES":{
   "ADDGIFTCARDTYPE":"Agregar Tipo de Giftcard",
@@ -888,7 +914,9 @@
   "SUPERVISORCODE":"Código Supervisor",
   "ACTIVE":"Activo",
   "SAVE":"Guardar",
-  "CANCEL":"Cancelar"
+  "CANCEL":"Cancelar",
+  "ADDOPERATOR":"AGREGAR OPERADOR",
+  "EDITOPERATOR":"EDITAR OPERADOR"
 },
 "OPERATORSETTINGSCOMPONENT":{
   "ADDOPERATOR":"Agregar Operador",
@@ -974,8 +1002,8 @@
   "FILTER":"Filtrar",
   "DESCRIPTION":"Descripción",
   "TYPE":"Tipo",
-  "SINCE":"DESDE",
-  "UNTIL":"HASTA",
+  "SINCE":"Desde",
+  "UNTIL":"Hasta",
   "ACTIVE":"Activo",
   "ACTIONS":"Acciones"
 
@@ -1089,7 +1117,9 @@
   "ROLE":"Rol",
   "DESCRIPTION":"Descripción",
   "SAVE":"Guardar",
-  "CANCEL":"Cancelar"
+  "CANCEL":"Cancelar",
+  "ADDROL":"AGREGAR ROLES",
+  "EDITROL":"EDITAR ROLES"
 },
 "ROLPOPUPCOMPONENT":{
   "YOUCANADD":"Puede agregar",
@@ -1214,7 +1244,9 @@
   "TYPE":"Tipo",
   "ACTIVE":"Activo",
   "SAVE":"Guardar",
-  "CANCEL":"Cancelar"
+  "CANCEL":"Cancelar",
+  "ADDTAXES":"AGREGAR IMPUESTO",
+  "UPDATETAX":"ACTUALIZAR IMPUESTO"
 },
 "TAXESCOMPONENT":{
   "ADDTAX":"Agregar Impuesto",
@@ -1255,11 +1287,12 @@
   "DGR":"DGR",
   "INTERNAL":"Interno",
   "OTHERS":"Otros",
-  "OTHERMUNICIPALITY":"Otra Municipalidad",
-  "OTHERPROVINCIAL":"Other Provincial",
+  "OTHERMUNICIPALITY":"Otros Municipalidad",
+  "OTHERPROVINCIAL":"Otros Provincial",
   "TOTAL":"Total",
   "FOOTERTOTALS":"Totales",
-  "ACTIONS":"Acciones"
+  "ACTIONS":"Acciones",
+  "CANCELED":"Anulado"
 
 },
 "VATSALESCOMPONENT":{
@@ -1301,7 +1334,9 @@
   "NAME":"Nombre",
   "URL":"URL",
   "SAVE":"Guardar",
-  "CANCEL":"Cancelar"
+  "CANCEL":"Cancelar",
+  "ADDWEBAPP":"AGREGAR WEB APP",
+  "EDITWEBAPP":"EDITAR WEB APP"
 },
 "WEBAPPSSETTINGSCOMPONENT":{
   "ADDWEBAPP":"Agregar Web App",
@@ -1343,6 +1378,29 @@
   "BY":"por",
   "MODIFIED":"Modificado",
   "CANCEL":"Cancelar"
+},
+"FORGOTPASS":{
+  "NEWPASSWORDWILLBESENTTOYOUREMAILADDRESS":"Se enviará una nueva contraseña a su dirección de correo electrónico",
+  "EMAILISREQUIRED":"correo electronico es requerido",
+  "SUBMIT":"Enviar",
+  "SIGNIN":"iniciar sesión",
+  "CREATEANEWACCOUNT":"Crea una cuenta nueva"
+
+},
+"PAGENOTFOUND":{
+  "PAGENOTFOUND!":"¡Página no encontrada!",
+  "BACKTODASHBOARD":"Volver al panel",
+  "REPORTTHISPROBLEM":"Informar este problema"
+
+},
+"SINGIN":{
+  "SIGNINTOYOURACCOUNT":"Iniciar sesión en tu cuenta",
+  "USERNAMEISREQUIRED":"Nombre de usuario es requerido",
+  "PASSWORDISREQUIRED":"Contraseña es requerida",
+  "REMEMBERTHISCOMPUTER":"Recordar esta computadora",
+  "LOGIN":"Iniciar Sesión",
+  "IFORGOTMYPASSWORD":"Olvidé mi contraseña",
+  "CREATEANEWACCOUNT":"Crear una cuenta nueva"
 }
 
 
