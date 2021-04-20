@@ -1401,6 +1401,34 @@
   "LOGIN":"Iniciar Sesión",
   "IFORGOTMYPASSWORD":"Olvidé mi contraseña",
   "CREATEANEWACCOUNT":"Crear una cuenta nueva"
+},
+"VATPURCHASESPOPUP":{
+  "NUMBER":"Número",
+  "CLIENT":"Cliente",
+  "ADDRESS":"Domicilio",
+  "UPLOADDATE":"Fecha de Carga",
+  "CREATED":"Creado",
+  "CONFIRM":"Confirmar",
+  "CODE":"Código",
+  "DESCRIPTION":"Descripción",
+  "DEPOSIT":"Depósito",
+  "QUANTITY":"Cantidad",
+  "PRICE":"Precio",
+  "DISCOUNT":"Descuento",
+  "TAX":"Impuesto",
+  "TOTAL":"Total",
+  "VAT21":"IVA 21",
+  "VAT105":"IVA 10,5",
+  "VATEXCENT":"IVA Excento",
+  "NETTOTAL":"Total Neto",
+  "TOTALDISCOUNTS":"Total Descuento",
+  "TOTALTAXES":"Total Impuesto",
+  "CANCEL":"Cancelar",
+  "BY":"por",
+  "AT":"a las",
+  "YES":"Si",
+  "NO":"No",
+  "RECEIPT":"Comprobante"    
 }
 
 

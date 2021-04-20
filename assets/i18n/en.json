@@ -1410,6 +1410,34 @@
   "LOGIN":"Log in",
   "IFORGOTMYPASSWORD":"I forgot my password",
   "CREATEANEWACCOUNT":"Create a new account"
+},
+"VATPURCHASESPOPUP":{
+  "NUMBER":"Number",
+  "CLIENT":"Client",
+  "ADDRESS":"Address",
+  "UPLOADDATE":"Upload Date",
+  "CREATED":"Created",
+  "CONFIRM":"Confirmed",
+  "CODE":"Code",
+  "DESCRIPTION":"Description",
+  "DEPOSIT":"Deposit",
+  "QUANTITY":"Quantity",
+  "PRICE":"Price",
+  "DISCOUNT":"Discount",
+  "TAX":"Tax",
+  "TOTAL":"Total",
+  "VAT21":"VAT 21",
+  "VAT105":"VAT 10,5",
+  "VATEXCENT":"VAT Excent",
+  "NETTOTAL":"Net Total",
+  "TOTALDISCOUNTS":"Total Discounts",
+  "TOTALTAXES":"Total Taxes",
+  "CANCEL":"Cancel",
+  "BY":"by",
+  "AT":"at",
+  "YES":"Yes",
+  "NO":"No",
+  "RECEIPT":"Receipt"  
 }
 
 }
