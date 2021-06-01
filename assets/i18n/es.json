@@ -1221,7 +1221,8 @@
   "PRODUCT":"Producto",
   "QUANTITY":"Cantidad",
   "DEPOSIT":"Depósito",
-  "OPERATOR":"Operador"
+  "OPERATOR":"Operador",
+  "ADDSTOCKTRANSFERENCE":"Nuevo envío de mercadería"
   
 },
 "STOCKONDATE":{
@@ -1431,6 +1432,16 @@
   "YES":"Si",
   "NO":"No",
   "RECEIPT":"Comprobante"    
+},
+"STOCKMOVEMENTTRANSFERENCE":{
+  "POINTOFSALE":"Punto de Venta",
+  "ORIGINDEPOSIT":"Origen",
+  "DESTINYDEPOSIT":"Destino",
+  "QUANTITY":"Cantidad",
+  "PRODUCT":"Producto",
+  "SAVE":"Guardar",
+  "ACTIONS":"Acciones",
+  "CANCEL":"Cancelar"
 }
 
 

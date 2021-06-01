@@ -1230,8 +1230,8 @@
   "PRODUCT":"Product",
   "QUANTITY":"Quantity",
   "DEPOSIT":"Deposit",
-  "OPERATOR":"Operator"
-
+  "OPERATOR":"Operator",
+  "ADDSTOCKTRANSFERENCE":"New shipment of merchandise"
 },
 "STOCKONDATE":{
   "DEPOSITS":"Deposits",
@@ -1440,6 +1440,16 @@
   "YES":"Yes",
   "NO":"No",
   "RECEIPT":"Receipt"  
+},
+"STOCKMOVEMENTTRANSFERENCE":{
+  "POINTOFSALE":"Point of Sale",
+  "ORIGINDEPOSIT":"Deposit Origin",
+  "DESTINYDEPOSIT":"Deposit Destiny",
+  "QUANTITY":"Quantity",
+  "PRODUCT":"Product",
+  "SAVE":"Save",
+  "ACTIONS":"Actions",
+  "CANCEL":"Cancel"
 }
 
 }
